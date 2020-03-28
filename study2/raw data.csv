@@ -1,0 +1,456 @@
+V1,V2,V3,V4,V5,V6,V7,V8,V9,V10,cond,Q3,Q73,Q11,Q13,Q14,Q22,dv_1,dv_2,dv_3,dv_4,dv_5,dv_6,p1_time_1,p1_time_2,p1_time_3,p1_time_4,posoc,dk1_1,dk1_2,poecon,dk2_1,dk2_2,polparty,Q21,v36,Q19,Q20,v39,gender,age_1,comments
+ResponseID,ResponseSet,Name,ExternalDataReference,EmailAddress,IPAddress,Status,StartDate,EndDate,Finished,cond,Individual Decision Making Study /  / This consent form asks you to take part in a research study / con...,"For this study you will read and respond to questions about / approaches to public policy. /   /  This is a short survey, so we ask that you please pay attention /  and read all materials before responding.",Policy Proposal: Automatic Enrollment / Researchers have suggested that one useful approach to publ...,"For example, lawmakers have enforced a law (the Pension Protection / Act) that encourages companies...","For example, the George W. Bush administration enforced a law (the / Pension Protection Act) that e...","For example, the Barack Obama administration enforced a law (the / Pension Protection Act) that enc...",This approach of strategically selecting default options can be / used across a wide range of polic...-How much do you <u>support</u> this approach to policy?,This approach of strategically selecting default options can be / used across a wide range of polic...-How much do you <u>oppose</u> this approach to policy?,This approach of strategically selecting default options can be / used across a wide range of polic...-How <u>ethical</u> is this approach to policy?,This approach of strategically selecting default options can be / used across a wide range of polic...-How <u>manipulative</u> is this approach to policy?,This approach of strategically selecting default options can be / used across a wide range of polic...-How <u>unethical</u> is this approach to policy?,This approach of strategically selecting default options can be / used across a wide range of polic...-How <u>coercive</u> is this approach to policy?,Timing-First Click,Timing-Last Click,Timing-Page Submit,Timing-Click Count,"When it comes to social issues, I am ... /  Â ", -<em>Click here instead if you are completely unsure</em>, -<em>Click here instead if you haven't given it much thought</em>,"When it comes to economic issues, I am ... /  Â ", -<em>Click here instead if you are completely unsure</em>, -<em>Click here instead if you haven't given it much thought</em>,"Do you identify primarily as Republican, Democrat, or neither?","As president of the U.S., to what extent do you findÂ George W. Bush trustworthy? /  Â ","As president of the U.S., to what extent do you findÂ Barack Obama trustworthy? /  Â ","Prior to this study, had you ever heard of the Pension Protection / Act?",Rate your level of familiarity with the Pension Protection Act / prior to this study:,"Prior to this survey, how familiar were you with the use of / automatic enrollment defaults in publ...",Gender: /  Â ,Age:Â -years old,"Finally, any questions, comments, or suggestions for this / study?"
+R_bwNC14mPq1r73Zb,Default Response Set,Anonymous,,,168,0,2014-07-29 11:48:25,2014-07-29 11:49:52,1,Bush,1,1,1,,1,,4,2,4,2,2,3,27.517,33.03699999999999,33.839,7,5,,,5,,,1,6,3,2,1,2,1,19,
+R_cUY5RVcIkfVDi1T,Default Response Set,Anonymous,,,36,0,2014-07-29 11:48:38,2014-07-29 11:50:12,1,control,1,1,1,1,,,4,2,4,2,2,2,29.942,36.102000000000004,37.418,6,2,,,4,,,2,2,7,2,1,1,1,28,
+R_8v4ot1O637e299P,Default Response Set,Anonymous,,,199,0,2014-07-29 11:49:30,2014-07-29 11:50:52,1,control,1,1,1,1,,,2,4,1,5,5,5,21.835,36.173,37.174,12,1,,,2,,,2,1,7,2,1,1,2,19,
+R_2fX0b5aU4K1kDRj,Default Response Set,Anonymous,,,40,0,2014-07-29 11:48:46,2014-07-29 11:51:06,1,Obama,1,1,1,,,1,4,2,4,4,2,3,2.211,75.15400000000001,78.292,8,1,,,6,,,2,2,3,1,5,2,1,25,
+R_9ZUXWoS98DoEiNL,Default Response Set,Anonymous,,,347,0,2014-07-29 11:50:24,2014-07-29 11:51:46,1,Obama,1,1,1,,,1,4,2,4,4,2,1,12.218,21.769999999999992,22.839,7,2,,,2,,,2,2,6,1,7,3,1,24,
+R_cXWRgdxGBRlezOd,Default Response Set,Anonymous,,,396,0,2014-07-29 11:50:19,2014-07-29 11:52:07,1,Bush,1,1,1,,1,,3,2,2,4,3,3,43.588,51.88399999999999,52.924,9,3,,,4,,,2,4,4,2,5,2,2,35,
+R_9L8HjGvsPgsYj1b,Default Response Set,Anonymous,,,389,0,2014-07-29 11:49:26,2014-07-29 11:52:09,1,control,1,1,1,1,,,2,4,3,3,4,4,39.105,51.91299999999999,52.971,8,4,,,4,,,3,3,1,2,1,2,1,34,no
+R_3e15xl3pKGcJ28B,Default Response Set,Anonymous,,,192,0,2014-07-29 11:50:27,2014-07-29 11:52:10,1,Obama,1,1,1,,,1,3,3,3,4,3,4,28.757,38.227,39.351,6,1,,,2,,,2,2,2,2,1,3,1,19,
+R_cZ583RWNrI1H6rr,Default Response Set,Anonymous,,,400,0,2014-07-29 11:50:54,2014-07-29 11:52:12,1,Bush,1,1,1,,1,,2,4,3,4,4,4,21.517,27.223,28.063,6,3,,,3,,,2,3,4,2,4,3,1,31,fun task
+R_4YNPLsaL6qbfwbj,Default Response Set,Anonymous,,,393,0,2014-07-29 11:50:39,2014-07-29 11:52:26,1,control,1,1,1,1,,,3,4,3,4,3,3,27.266,32.921,34.026,6,6,,,6,,,1,4,4,1,6,3,2,24,
+R_0laki9RppPXtRlz,Default Response Set,Anonymous,,,334,0,2014-07-29 11:48:15,2014-07-29 11:52:44,1,Obama,1,1,1,,,1,5,1,3,3,1,3,95.965,120.83000000000001,121.998,8,6,,,6,,,2,1,7,1,6,2,2,39,
+R_3PKmMAb3bFieZLf,Default Response Set,Anonymous,,,411,0,2014-07-29 11:51:03,2014-07-29 11:52:54,1,control,1,1,1,1,,,4,3,3,3,2,2,38.348,55.24099999999999,56.401,6,3,,,3,,,2,4,3,2,1,1,2,28,
+R_1X2UhyRacQQRljL,Default Response Set,Anonymous,,,333,0,2014-07-29 11:52:25,2014-07-29 11:53:26,1,control,1,1,1,1,,,2,3,2,4,3,3,18.024,24.444999999999997,25.208,7,4,,,5,,,3,3,3,2,1,1,2,24,
+R_8vUteBgGZ1odya9,Default Response Set,Anonymous,,,95,0,2014-07-29 11:49:17,2014-07-29 11:53:56,1,Bush,1,1,1,,1,,4,2,4,2,3,4,66.748,84.38000000000001,86.974,8,3,,,2,,,2,2,3,1,6,4,1,26,"All I would say is when you're asking about the trustworthiness of Presidents I would revise the question to ""How trustworthy is the Barack Obama administration?"" We don't live in a dictatorship so I believe if you are going to ask these questions of the executive you must include the entire executive."
+R_0kv1bplaiFwd5hb,Default Response Set,Anonymous,,,58,0,2014-07-29 11:51:19,2014-07-29 11:54:32,1,Obama,1,1,1,,,1,4,2,3,4,3,5,38.631,97.365,98.467,8,3,,,5,,,3,1,1,2,1,1,1,26,
+R_380ipZIMfFhnQa1,Default Response Set,Anonymous,,,425,0,2014-07-29 11:52:57,2014-07-29 11:54:33,1,Obama,1,1,1,,,1,2,4,1,5,5,5,29.652,37.997,39.621,6,3,,,7,,,1,3,2,2,1,2,1,21,no
+R_9Gng5Nu0ClUPBMV,Default Response Set,Anonymous,,,321,0,2014-07-29 11:52:06,2014-07-29 11:54:37,1,Bush,1,1,1,,1,,2,4,2,4,4,3,6.355,72.638,76.504,15,2,,,2,,,2,4,4,2,1,1,1,23,
+R_4VK4O50W9dozKLj,Default Response Set,Anonymous,,,378,0,2014-07-29 11:53:42,2014-07-29 11:55:01,1,Obama,1,1,1,,,1,2,4,2,4,4,5,18.76,26.682,27.431,6,4,,,4,,,3,1,3,2,1,2,2,32,
+R_03afTCWJ3NGBUEd,Default Response Set,Anonymous,,,276,0,2014-07-29 11:54:19,2014-07-29 11:55:12,1,Bush,1,1,1,,1,,4,3,4,3,2,2,3.425,6.728000000000001,7.299,6,5,,,5,,,1,3,4,1,7,2,1,27,
+R_b2xcGSy0SlXhVGt,Default Response Set,Anonymous,,,390,0,2014-07-29 11:54:02,2014-07-29 11:55:17,1,Obama,1,1,1,,,1,4,1,3,3,2,2,7.678,18.837999999999997,19.646,13,5,,,4,,,3,4,7,2,5,2,1,23,
+R_8cXudBArxSpkbBz,Default Response Set,Anonymous,,,340,0,2014-07-29 11:53:34,2014-07-29 11:55:31,1,control,1,1,1,1,,,4,2,4,4,2,5,30.657,44.239999999999995,46.186,7,6,,,6,,,1,6,3,2,4,3,1,23,
+R_5Aq00movwe5r9bL,Default Response Set,Anonymous,,,57,0,2014-07-29 11:53:13,2014-07-29 11:55:33,1,Bush,1,1,1,,1,,4,2,3,5,2,4,50.36,61.71099999999999,63.181,6,2,,,3,,,2,4,6,2,1,1,1,31,Thank You
+R_cupporsbVsM9vIp,Default Response Set,Anonymous,,,305,0,2014-07-29 11:54:15,2014-07-29 11:55:35,1,control,1,1,1,1,,,3,2,4,3,2,4,10.864,25.104,26.634,7,4,,,4,,,3,1,3,2,5,3,2,25,
+R_0I0wsjevlsfsTRP,Default Response Set,Anonymous,,,31,0,2014-07-29 11:54:24,2014-07-29 11:55:40,1,Obama,1,1,1,,,1,1,5,1,5,5,5,19.021,27.544000000000004,28.32,8,4,,,5,,,2,1,1,2,1,1,1,41,
+R_3qHfCWcfx155QQ5,Default Response Set,Anonymous,,,128,0,2014-07-29 11:53:48,2014-07-29 11:56:00,1,Bush,1,1,1,,1,,1,4,2,4,4,3,45.255,62.071999999999996,62.751,7,1,,,4,,,2,3,3,2,1,1,2,26,"No, thank you."
+R_bIsjfT89W6nLBTn,Default Response Set,Anonymous,,,299,0,2014-07-29 11:52:18,2014-07-29 11:56:01,1,Bush,1,1,1,,1,,3,3,4,3,2,4,73.457,88.42099999999999,89.497,7,4,,,4,,,2,3,3,2,1,3,2,37,
+R_8wvxouSEMxhBk0t,Default Response Set,Anonymous,,,410,0,2014-07-29 11:54:38,2014-07-29 11:56:11,1,control,1,1,1,1,,,4,2,3,2,2,3,20.178,31.648999999999997,32.568,6,2,,,2,,,3,1,1,2,1,1,2,31,
+R_4ZNKI60mTXnV6kZ,Default Response Set,Anonymous,,,2,0,2014-07-29 11:54:32,2014-07-29 11:56:20,1,Bush,1,1,1,,1,,3,1,4,2,1,1,46.058,55.833000000000006,56.806,6,5,,,5,,,1,4,2,2,1,1,2,21,
+R_0NEfaHRwyWOlwcl,Default Response Set,Anonymous,,,304,0,2014-07-29 11:54:25,2014-07-29 11:56:21,1,control,1,1,1,1,,,2,4,2,4,4,4,45.282,56.536,58.545,6,4,,,4,,,3,4,4,2,1,2,1,26,
+R_1zAeufEFF6F8YsJ,Default Response Set,Anonymous,,,79,0,2014-07-29 11:54:45,2014-07-29 11:56:23,1,Bush,1,1,1,,1,,5,2,2,5,5,4,1.979,3.5540000000000003,5.582,4,6,1,,6,,,1,6,7,1,7,4,1,32,
+R_3a9iLBdkaue6sGF,Default Response Set,Anonymous,,,163,0,2014-07-29 11:55:21,2014-07-29 11:56:28,1,Obama,1,1,1,,,1,4,2,4,2,2,2,2.782,20.960999999999995,21.572,10,2,,,2,,,2,1,8,2,4,1,1,27,
+R_4SzEOjIavHH8qRD,Default Response Set,Anonymous,,,442,0,2014-07-29 11:54:10,2014-07-29 11:56:30,1,Obama,1,1,1,,,1,1,4,2,5,4,5,28.12,63.383,64.135,14,5,,,6,,,1,4,1,2,1,1,1,31,
+R_eUJk3igpyTLrlUp,Default Response Set,Anonymous,,,71,0,2014-07-29 11:53:57,2014-07-29 11:56:34,1,Obama,1,1,1,,,1,2,3,2,4,4,4,66.062,80.33,81.374,7,1,,,1,,,2,1,2,2,1,1,1,29,
+R_8eN9HGKRSichHU1,Default Response Set,Anonymous,,,47,0,2014-07-29 11:55:13,2014-07-29 11:56:45,1,Bush,1,1,1,,1,,4,2,3,5,3,4,24.654,41.83,42.44,14,1,,,5,,,3,6,2,2,1,1,1,21,
+R_6MDsPoYEVZxfhA1,Default Response Set,Anonymous,,,368,0,2014-07-29 11:54:43,2014-07-29 11:56:47,1,Obama,1,1,1,,,1,4,2,4,4,2,4,43.297,56.73699999999999,57.428,7,5,,,5,,,1,3,4,2,4,2,2,30,Interesting and enjoyable.
+R_eLj10d06AvqTyUl,Default Response Set,Anonymous,,,134,0,2014-07-29 11:54:39,2014-07-29 11:56:47,1,Bush,1,1,1,,1,,4,2,4,3,2,4,27.143,41.964000000000006,42.788,6,4,,,4,,,1,7,7,1,8,3,2,52,
+R_eeoDInxluhnLXyR,Default Response Set,Anonymous,,,346,0,2014-07-29 11:54:48,2014-07-29 11:56:52,1,control,1,1,1,1,,,4,2,3,4,3,4,48.294,58.12799999999999,59.028,6,1,,,1,,,3,1,4,2,1,2,1,27,NA
+R_71xg9nleDIEd3Zb,Default Response Set,Anonymous,,,53,0,2014-07-29 11:54:26,2014-07-29 11:56:57,1,Bush,1,1,1,,1,,1,5,2,4,4,4,10.041,84.985,85.988,16,2,,,2,,,2,4,3,2,1,1,1,24,
+R_3I3d8Tlac7DJmId,Default Response Set,Anonymous,,,3,0,2014-07-29 11:54:01,2014-07-29 11:57:01,1,control,1,1,1,1,,,2,4,2,5,4,4,12.269,39.11,39.716,8,2,,,2,,,2,1,1,2,1,3,1,27,
+R_3f565U2FR2i833f,Default Response Set,Anonymous,,,100,0,2014-07-29 11:55:30,2014-07-29 11:57:05,1,Bush,1,1,1,,1,,2,4,4,4,4,4,2.556,29.868000000000002,30.9,11,3,,,3,,,3,6,8,2,1,1,1,26,none
+R_6G2UOMnoJmHqw5v,Default Response Set,Anonymous,,,404,0,2014-07-29 11:55:54,2014-07-29 11:57:09,1,control,1,1,1,1,,,3,3,3,3,3,3,17.851,21.061999999999994,22.319,7,4,,,5,,,3,2,2,2,1,1,1,21,
+R_cBxyvIoc2kSSd9z,Default Response Set,Anonymous,,,135,0,2014-07-29 11:54:33,2014-07-29 11:57:15,1,Obama,1,1,1,,,1,4,1,1,4,4,4,48.715,59.49300000000001,59.887,7,2,,,2,,,2,4,3,2,1,1,1,28,
+R_9AlGJuVLOy8XFOd,Default Response Set,Anonymous,,,46,0,2014-07-29 11:54:36,2014-07-29 11:57:19,1,Obama,1,1,1,,,1,5,1,5,1,1,1,29.442,35.393,54.219,6,1,,,2,,,2,2,3,1,4,2,2,26,None.
+R_5aktdWU8XKvrNqd,Default Response Set,Anonymous,,,129,0,2014-07-29 11:54:34,2014-07-29 11:57:22,1,control,1,1,1,1,,,3,3,3,3,3,3,8.506,97.60199999999998,98.824,11,2,,,2,,,3,1,2,2,1,1,1,22,fun
+R_5uKMPZTAR8U8Q7P,Default Response Set,Anonymous,,,260,0,2014-07-29 11:53:47,2014-07-29 11:57:30,1,control,1,1,1,1,,,4,1,3,5,3,5,134.721,159.128,159.827,10,2,,,5,,,2,4,6,2,1,2,2,27,
+R_3JbnGVnRCzS294F,Default Response Set,Anonymous,,,139,0,2014-07-29 11:55:25,2014-07-29 11:57:30,1,control,1,1,1,1,,,4,1,4,2,1,3,23.063,31.004999999999995,31.762,6,2,,,2,,,2,2,7,2,1,2,2,26,Thanks!
+R_3t4Kc8wRmstIHeR,Default Response Set,Anonymous,,,231,0,2014-07-29 11:56:08,2014-07-29 11:57:33,1,Obama,1,1,1,,,1,4,2,4,2,2,2,10.993,40.56,41.237,10,2,,,2,,,2,2,4,2,4,3,,27,easy hit
+R_9GOZLZhsE4EVajX,Default Response Set,Anonymous,,,422,0,2014-07-29 11:56:15,2014-07-29 11:57:39,1,Bush,1,1,1,,1,,5,1,5,5,1,5,7.536,32.716,33.449,13,,,,1,,,2,1,3,2,1,2,1,20,
+R_eFjHf8EVVWIll9r,Default Response Set,Anonymous,,,174,0,2014-07-29 11:56:27,2014-07-29 11:57:40,1,Bush,1,1,1,,1,,4,2,4,2,2,3,30.119,36.55,37.161,6,1,,,2,,,2,3,3,2,4,3,1,24,
+R_9Zxl6491krOfYHj,Default Response Set,Anonymous,,,323,0,2014-07-29 11:56:02,2014-07-29 11:57:40,1,control,1,1,1,1,,,4,2,2,5,4,5,31.786,48.51500000000001,49.238,9,3,,,3,,,2,3,3,2,1,1,2,35,none
+R_005U38tgw6zRBEF,Default Response Set,Anonymous,,,157,0,2014-07-29 11:56:24,2014-07-29 11:57:46,1,Obama,1,1,1,,,1,4,2,3,2,2,3,25.546,32.767,33.564,6,3,,,3,,,2,6,7,1,6,3,1,34,n/a
+R_7aDTiQ7h2k4Z1hX,Default Response Set,Anonymous,,,383,0,2014-07-29 11:56:42,2014-07-29 11:57:54,1,control,1,1,1,1,,,4,3,3,3,2,3,11.691,15.496,16.119,6,6,,,6,,,1,8,1,1,5,1,1,29,
+R_884JLN57DWEJmQJ,Default Response Set,Anonymous,,,98,0,2014-07-29 11:55:35,2014-07-29 11:58:02,1,Obama,1,1,1,,,1,4,2,4,2,2,2,61.689,76.32399999999998,81.033,8,2,,,2,,,2,1,3,2,1,2,2,19,
+R_5C04nVXnHKbymYR,Default Response Set,Anonymous,,,417,0,2014-07-29 11:55:56,2014-07-29 11:58:18,1,Bush,1,1,1,,1,,2,4,3,5,3,4,48.678,61.565999999999995,63.464,7,5,,,5,,,3,3,3,2,1,2,1,63,no issues
+R_78ynDz4HiVg6R2R,Default Response Set,Anonymous,,,256,0,2014-07-29 11:54:40,2014-07-29 11:58:21,1,control,1,1,1,1,,,1,5,1,5,5,5,18.429,33.873,36.308,8,2,,,1,,,3,1,4,2,1,1,1,29,thank you
+R_6X1AVQwORF3Mdhj,Default Response Set,Anonymous,,,312,0,2014-07-29 11:56:25,2014-07-29 11:58:25,1,control,1,1,1,1,,,1,5,1,5,5,3,36.276,48.333999999999996,51.136,7,4,,,5,,,3,3,3,2,1,1,1,36,No comments.
+R_23TMdSgU4JiDsz3,Default Response Set,Anonymous,,,339,0,2014-07-29 11:56:42,2014-07-29 11:58:26,1,Bush,1,1,1,,1,,4,2,4,3,2,3,29.729,38.379999999999995,39.448,6,3,,,3,,,2,4,3,1,8,2,2,50,
+R_38gjpSMljTrBa0B,Default Response Set,Anonymous,,,259,0,2014-07-29 11:56:29,2014-07-29 11:58:44,1,Obama,1,1,1,,,1,4,2,3,4,3,3,7.211,54.02499999999999,55.785,8,3,1,,2,,1,2,3,7,2,5,3,2,23,
+R_cwK8noufdc8UAnj,Default Response Set,Anonymous,,,77,0,2014-07-29 11:56:49,2014-07-29 11:58:58,1,Bush,1,1,1,,1,,5,1,4,3,2,4,27.231,39.095,40.019,6,3,,,4,,,2,3,6,2,7,3,2,33,no
+R_3wpdGSE1BsBijZz,Default Response Set,Anonymous,,,343,0,2014-07-29 11:57:31,2014-07-29 11:58:58,1,Bush,1,1,1,,1,,2,5,2,3,3,4,15.2,32.183,33.702,8,3,,,3,,,2,2,3,2,1,1,1,25,I enjoyed this. Thanks.
+R_elm79rmoEpounXv,Default Response Set,Anonymous,,,314,0,2014-07-29 11:57:30,2014-07-29 11:59:22,1,Obama,1,1,1,,,1,4,2,3,4,3,4,2.258,44.059,45.833,9,3,,,4,,,3,2,4,2,1,2,1,24,
+R_erEOyQVr969WVLL,Default Response Set,Anonymous,,,42,0,2014-07-29 11:56:46,2014-07-29 11:59:29,1,control,1,1,1,1,,,4,2,4,4,2,4,77.707,97.154,97.757,6,2,,,2,,,2,2,7,,1,2,2,37,
+R_6EEDPqbVzMWiNcV,Default Response Set,Anonymous,,,399,0,2014-07-29 11:57:53,2014-07-29 11:59:39,1,Obama,1,1,1,,,1,4,2,3,3,2,3,24.218,36.97200000000001,43.183,8,2,,,2,,,2,3,4,1,5,2,2,24,
+R_9mlLq7pFc2Ncqsl,Default Response Set,Anonymous,,,117,0,2014-07-29 11:58:06,2014-07-29 11:59:48,1,Bush,1,1,1,,1,,4,4,3,3,3,3,17.994,44.402,45.934,18,4,,,3,,,2,2,6,2,1,2,1,27,
+R_bpcxTiu26A0rijH,Default Response Set,Anonymous,,,306,0,2014-07-29 11:58:19,2014-07-29 12:00:22,1,Obama,1,1,1,,,1,1,5,3,5,3,5,45.298,62.202,62.837,11,1,,,1,,,3,3,1,2,1,1,2,35,
+R_9FF5xe16cSkFh2Z,Default Response Set,Anonymous,,,322,0,2014-07-29 11:59:12,2014-07-29 12:00:52,1,control,1,1,1,1,,,4,2,4,2,2,2,51.604,58.605000000000004,59.561,7,1,,,2,,,2,1,4,2,1,1,2,29,
+R_3CwGGQSD4jCLN9X,Default Response Set,Anonymous,,,430,0,2014-07-29 11:57:41,2014-07-29 12:01:00,1,control,1,1,1,1,,,2,3,3,4,3,3,30.049,36.57600000000001,37.404,7,3,,,4,,,3,4,3,2,1,1,1,26,
+R_b9kP3g7grpahvVP,Default Response Set,Anonymous,,,179,0,2014-07-29 11:58:24,2014-07-29 12:01:17,1,control,1,1,1,1,,,5,1,5,1,1,3,55.083,72.96399999999998,74.457,6,1,,,1,,,,8,1,2,1,1,2,32,na
+R_dhzaThxVHRTjqOV,Default Response Set,Anonymous,,,109,0,2014-07-29 11:59:01,2014-07-29 12:01:53,1,control,1,1,1,1,,,3,4,4,4,4,4,27.789,38.706,39.965,6,2,,,4,,,3,3,1,2,4,4,2,26,
+R_8CFPBdjt1yjz3iR,Default Response Set,Anonymous,,,1,0,2014-07-29 11:59:07,2014-07-29 12:01:54,1,Obama,1,1,1,,,1,4,3,3,5,3,4,82.009,91.72,102.211,6,4,,,,1,,3,1,2,2,5,2,1,19,
+R_cU6iF8spDxcIk1D,Default Response Set,Anonymous,,,349,0,2014-07-29 11:59:07,2014-07-29 12:01:54,1,Bush,1,1,1,,1,,1,4,1,5,5,3,56.247,67.824,68.992,7,6,,,5,,,3,3,3,2,1,1,1,26,
+R_0PRcmX8Urlf5z7f,Default Response Set,Anonymous,,,111,0,2014-07-29 11:58:45,2014-07-29 12:02:27,1,Obama,1,1,1,,,1,4,2,3,3,2,4,40.168,45.63700000000001,46.246,8,1,,,1,,,2,2,6,2,1,2,2,19,
+R_9GdN7HUI37N9Zvn,Default Response Set,Anonymous,,,15,0,2014-07-29 12:00:14,2014-07-29 12:02:39,1,control,1,1,1,1,,,3,3,3,4,3,4,41.526,55.41200000000001,66.282,6,1,,,1,,,2,1,3,1,4,3,2,39,
+R_bqNv4GNLrxRAsXH,Default Response Set,Anonymous,,,195,0,2014-07-29 12:00:08,2014-07-29 12:02:57,1,Bush,1,1,1,,1,,2,5,2,3,4,3,13.457,27.337,29.988,13,2,,,6,,,3,3,3,2,1,1,1,33,
+R_6EG0vT4kHCGN0cR,Default Response Set,Anonymous,,,301,0,2014-07-29 11:58:41,2014-07-29 12:03:00,1,Bush,1,1,1,,1,,4,2,4,2,1,1,45.463,84.59,85.192,35,1,,,2,,,3,1,4,2,1,1,1,27,Thanks for letting me participate in your study.
+R_0jsluCMpvXrCnmB,Default Response Set,Anonymous,,,226,0,2014-07-29 12:01:45,2014-07-29 12:03:10,1,control,1,1,1,1,,,5,1,4,1,1,2,30.529,39.638999999999996,40.061,8,6,,,6,,,1,8,1,2,1,1,1,22,
+R_bp98ftgk1zR5gc5,Default Response Set,Anonymous,,,348,0,2014-07-29 12:01:00,2014-07-29 12:03:19,1,Obama,1,1,1,,,1,2,4,3,3,3,3,29.263,39.431999999999995,56.516,8,4,,,4,,,3,1,1,2,1,3,1,29,
+R_es1BqeBfGMYHbYp,Default Response Set,Anonymous,,,364,0,2014-07-29 12:03:05,2014-07-29 12:04:37,1,control,1,1,1,1,,,2,4,3,4,4,4,22.573,40.895999999999994,41.57,7,3,,,4,,,1,6,2,2,4,3,1,24,
+R_5dsB1GIzChDHd8p,Default Response Set,Anonymous,,,173,0,2014-07-29 12:03:43,2014-07-29 12:04:54,1,Bush,1,1,1,,1,,5,1,5,5,1,5,24.785,30.861000000000004,32.108,6,4,,,4,,,3,1,1,2,1,1,1,23,
+R_ewIosL5bCdFfbeJ,Default Response Set,Anonymous,,,415,0,2014-07-29 12:03:41,2014-07-29 12:05:04,1,Obama,1,1,1,,,1,1,5,1,5,5,5,22.26,33.54,34.992,12,2,,,4,,,2,1,1,2,1,1,2,20,
+R_50ylvVFNiQVDcBT,Default Response Set,Anonymous,,,277,0,2014-07-29 12:01:53,2014-07-29 12:05:15,1,control,1,1,1,1,,,2,3,3,3,3,3,51.607,88.559,111.45,9,3,,,4,,,3,7,7,2,1,1,2,54,thank you
+R_exJEEj0VcJFnVvn,Default Response Set,Anonymous,,,30,0,2014-07-29 12:02:27,2014-07-29 12:05:56,1,Bush,1,1,1,,1,,2,4,2,5,3,4,68.215,78.50300000000001,79.347,6,2,,,2,,,2,2,3,2,4,2,2,29,
+R_8k4dDim1QHHLfQ9,Default Response Set,Anonymous,,,158,0,2014-07-29 11:59:06,2014-07-29 12:06:49,1,Obama,1,1,1,,,1,4,3,5,5,4,2,35.911,39.739000000000004,40.798,7,5,,,5,,,2,2,3,1,8,4,1,27,
+R_0cFoYg6pT8AHveJ,Default Response Set,Anonymous,,,365,0,2014-07-29 12:02:32,2014-07-29 12:06:59,1,Obama,1,1,1,,,1,2,4,2,5,4,5,136.038,145.049,145.801,6,1,,,1,,,2,1,3,2,1,2,2,28,"no, thanks"
+R_cNreX7wDOQz3Znn,Default Response Set,Anonymous,,,146,0,2014-07-29 12:05:20,2014-07-29 12:07:30,1,control,1,1,1,1,,,3,3,3,3,3,3,63.393,69.72999999999999,70.212,8,2,,,2,,,2,2,4,2,4,1,1,26,
+R_9KsupisXRBlgacR,Default Response Set,Anonymous,,,194,0,2014-07-29 12:05:24,2014-07-29 12:07:34,1,Bush,1,1,1,,1,,3,4,3,5,5,5,61.541,70.653,73.431,6,3,,,3,,,2,3,6,2,1,1,1,21,
+R_bOEpZRCmPH5QXhr,Default Response Set,Anonymous,,,14,0,2014-07-29 12:06:36,2014-07-29 12:08:00,1,control,1,1,1,1,,,4,1,5,1,1,1,24.201,30.023000000000003,30.804,6,4,,,4,,,3,3,6,2,1,2,1,22,
+R_dcfCoI2jXXsDAtT,Default Response Set,Anonymous,,,114,0,2014-07-29 12:06:38,2014-07-29 12:08:26,1,control,1,1,1,1,,,4,1,3,4,3,4,22.489,33.553,34.37,7,6,,,6,,,1,3,3,2,1,1,1,34,
+R_9sngKcI4NkSRdmR,Default Response Set,Anonymous,,,86,0,2014-07-29 12:07:17,2014-07-29 12:08:43,1,Bush,1,1,1,,1,,3,3,3,3,3,3,7.643,10.297999999999998,12.992,6,4,,1,4,1,,3,3,3,2,1,1,2,22,no
+R_8fcmgJ2NZKP0JSZ,Default Response Set,Anonymous,,,413,0,2014-07-29 12:07:01,2014-07-29 12:08:47,1,Bush,1,1,1,,1,,4,1,5,1,1,1,8.004,61.913999999999994,62.623,8,1,,,2,,,3,3,1,2,1,1,1,29,
+R_6PQCLDHL0M5ojk1,Default Response Set,Anonymous,,,293,0,2014-07-29 12:07:12,2014-07-29 12:09:13,1,control,1,1,1,1,,,4,2,4,1,1,1,37.144,55.16799999999999,55.858,6,4,,,4,,,3,3,6,2,1,1,1,18,
+R_dcffnu7iNBiOLhH,Default Response Set,Anonymous,,,245,0,2014-07-29 12:06:56,2014-07-29 12:09:23,1,Obama,1,1,1,,,1,5,1,5,1,1,1,39.488,80.916,82.369,8,2,,,2,,,2,3,8,2,1,1,1,31,
+R_3QVcgD3ngDuRXed,Default Response Set,Anonymous,,,19,0,2014-07-29 12:08:09,2014-07-29 12:09:37,1,Bush,1,1,1,,1,,1,1,1,5,5,5,4.419,21.955000000000005,22.752,12,2,,,2,,,2,1,3,2,1,1,1,27,
+R_diE0Egu6WnW4hMN,Default Response Set,Anonymous,,,41,0,2014-07-29 12:06:33,2014-07-29 12:09:54,1,Obama,1,1,1,,,1,4,1,2,2,2,2,3.773,104.05000000000001,104.821,10,6,,,6,,,1,8,1,2,1,4,1,26,Not at this time.
+R_9skrV1uumVRvzRr,Default Response Set,Anonymous,,,426,0,2014-07-29 12:07:32,2014-07-29 12:10:21,1,Bush,1,1,1,,1,,4,1,3,1,1,3,65.275,80.37,81.456,8,4,,,4,,,3,4,7,2,1,1,2,67,
+R_elWKZLbZpW00J01,Default Response Set,Anonymous,,,357,0,2014-07-29 12:07:38,2014-07-29 12:10:30,1,control,1,1,1,1,,,3,3,3,3,3,3,39.387,90.61199999999998,99.777,13,2,,,2,,,3,1,6,2,1,2,2,29,
+R_cBDoJYaNop6mH65,Default Response Set,Anonymous,,,102,0,2014-07-29 12:08:37,2014-07-29 12:10:38,1,Obama,1,1,1,,,1,5,2,4,5,2,4,15.685,21.905,22.399,10,1,,,2,,,3,3,3,2,4,3,2,25,
+R_effxQoh3H90BKv3,Default Response Set,Anonymous,,,391,0,2014-07-29 12:08:05,2014-07-29 12:10:49,1,Obama,1,1,1,,,1,1,4,2,1,2,4,0.99,72.428,73.234,14,3,,,5,,,3,3,4,2,1,1,1,30,"Thanks for the information, I did not know this was happening."
+R_eeqtNFpd0enJPUh,Default Response Set,Anonymous,,,325,0,2014-07-29 12:08:56,2014-07-29 12:10:56,1,Bush,1,1,1,,1,,4,2,4,2,2,4,45.548,54.539,55.372,6,3,,,3,,,2,4,3,2,1,2,2,28,
+R_1ZbUUN7bok0CzMV,Default Response Set,Anonymous,,,382,0,2014-07-29 12:06:24,2014-07-29 12:10:58,1,Obama,1,1,1,,,1,4,2,4,2,2,2,112.671,124.75000000000001,125.65,6,2,,,2,,,2,2,7,2,1,1,2,30,
+R_8CH1HfTD8Wu8Nvf,Default Response Set,Anonymous,,,182,0,2014-07-29 12:09:18,2014-07-29 12:11:09,1,Bush,1,1,1,,1,,4,2,4,2,2,3,40.021,50.840999999999994,51.262,8,6,,,6,,,1,7,2,2,4,2,1,18,
+R_0cWoW8aADoF8J1P,Default Response Set,Anonymous,,,184,0,2014-07-29 12:08:52,2014-07-29 12:11:16,1,control,1,1,1,1,,,2,4,3,4,3,3,35.553,70.448,73.807,9,4,,,3,,,2,1,3,1,6,4,1,29,
+R_2raY6v7lhORsFHT,Default Response Set,Anonymous,,,219,0,2014-07-29 12:10:19,2014-07-29 12:11:18,1,Obama,1,1,1,,,1,4,4,5,5,5,4,1.911,4.767,7.95,7,7,,,6,,,1,4,4,2,6,4,1,23,Great Survey
+R_09ejKUMw3dGkyTX,Default Response Set,Anonymous,,,94,0,2014-07-29 12:08:58,2014-07-29 12:11:19,1,Obama,1,1,1,,,1,4,1,4,1,1,2,84.436,91.306,91.9,6,2,,,2,,,2,2,3,2,1,2,2,24,
+R_2i3GJPIN7Vaezm5,Default Response Set,Anonymous,,,282,0,2014-07-29 12:10:25,2014-07-29 12:12:07,1,Obama,1,1,1,,,1,4,2,4,3,2,3,19.891,43.367000000000004,44.654,9,4,,1,4,,1,3,2,4,2,1,1,1,24,
+R_77Zgvugb6yutb1j,Default Response Set,Anonymous,,,221,0,2014-07-29 12:09:15,2014-07-29 12:12:07,1,control,1,1,1,1,,,5,1,4,5,1,3,56.724,69.18799999999999,70.011,6,4,,,4,,,2,3,6,2,1,4,2,20,
+R_298jFxbdGZTVNe5,Default Response Set,Anonymous,,,124,0,2014-07-29 12:09:10,2014-07-29 12:12:37,1,control,1,1,1,1,,,3,3,4,2,2,3,57.678,80.31499999999998,81.787,6,5,,,4,,,2,3,4,2,1,2,1,48,
+R_dgpl5ifDpkm9wCF,Default Response Set,Anonymous,,,238,0,2014-07-29 12:11:23,2014-07-29 12:12:59,1,control,1,1,1,1,,,4,2,3,4,3,2,27.044,38.241,38.833,8,4,,,5,,,3,3,1,2,1,2,1,37,
+R_6gLu2J56zisjUMd,Default Response Set,Anonymous,,,171,0,2014-07-29 12:12:14,2014-07-29 12:13:43,1,Bush,1,1,1,,1,,1,5,1,5,5,2,18.874,34.241,35.289,8,1,,,5,,,2,3,1,1,4,1,1,27,No further comments
+R_6E6OtsIw5LDIuX3,Default Response Set,Anonymous,,,147,0,2014-07-29 12:13:29,2014-07-29 12:14:55,1,Obama,1,1,1,,,1,2,3,3,3,2,2,2.778,41.519000000000005,42.563,13,4,,,5,,,1,3,4,2,1,3,1,24,
+R_eVivYXAb4XtTE5D,Default Response Set,Anonymous,,,200,0,2014-07-29 12:07:19,2014-07-29 12:14:57,1,Obama,1,1,1,,,1,2,4,3,4,3,4,43.436,50.817,52.545,6,3,,,3,,,2,4,4,2,,1,1,53,no
+R_9oiMTA4omIntPg1,Default Response Set,Anonymous,,,133,0,2014-07-29 12:13:38,2014-07-29 12:15:11,1,Obama,1,1,1,,,1,4,2,3,2,1,3,2.42,29.995,31.885,19,1,,,3,,,2,1,6,2,1,3,2,22,
+R_0V362iCBPXC2uDr,Default Response Set,Anonymous,,,206,0,2014-07-29 12:12:59,2014-07-29 12:16:02,1,Bush,1,1,1,,1,,4,2,3,2,2,3,71.292,107.00700000000002,107.749,8,2,,,2,,,3,4,3,2,5,2,2,27,
+R_6u1MQMd4R4iSt2l,Default Response Set,Anonymous,,,217,0,2014-07-29 12:14:38,2014-07-29 12:16:48,1,control,1,1,1,1,,,2,4,2,5,4,4,43.149,52.03300000000001,52.895,6,3,,,5,,,3,2,3,2,1,2,2,19,None
+R_a4qIFcR17Yz1s3z,Default Response Set,Anonymous,,,73,0,2014-07-29 12:15:05,2014-07-29 12:17:16,1,Bush,1,1,1,,1,,4,2,3,3,3,3,2.508,55.682,60.636,8,6,,,6,,,1,6,2,2,4,3,1,27,
+R_ehPeVPTHXtz55Hf,Default Response Set,Anonymous,,,193,0,2014-07-29 12:16:03,2014-07-29 12:17:41,1,control,1,1,1,1,,,2,3,3,4,3,4,25.411,39.907,40.464,8,3,,,4,,,2,1,6,2,1,1,2,35,
+R_4VoXXlITl5CRLzD,Default Response Set,Anonymous,,,91,0,2014-07-29 12:14:55,2014-07-29 12:17:49,1,Obama,1,1,1,,,1,4,1,4,3,2,3,31.843,66.78399999999999,68.573,10,2,,,2,,,2,1,6,2,1,3,2,23,
+R_79zX5XWDnYfBxOd,Default Response Set,Anonymous,,,90,0,2014-07-29 12:01:43,2014-07-29 12:17:54,1,Bush,1,1,1,,1,,4,3,4,4,2,3,4.551,9.540999999999999,10.239,8,7,,,7,,,1,8,2,2,1,3,2,19,
+R_dnx500ibqKpoIHb,Default Response Set,Anonymous,,,130,0,2014-07-29 12:16:41,2014-07-29 12:17:56,1,Bush,1,1,1,,1,,5,2,4,3,1,3,22.67,28.742,29.635,6,3,,,5,,,2,2,7,2,1,4,1,38,
+R_6R06T47BNLn4xTL,Default Response Set,Anonymous,,,251,0,2014-07-29 12:16:04,2014-07-29 12:18:03,1,Obama,1,1,1,,,1,2,4,2,4,4,3,54.289,67.01100000000001,67.674,10,4,,,4,,,3,3,3,2,1,2,1,21,"No comments, thanks!"
+R_eCDO1PeBYV4avyJ,Default Response Set,Anonymous,,,336,0,2014-07-29 12:13:58,2014-07-29 12:18:10,1,Bush,1,1,1,,1,,3,3,2,4,4,4,151.341,188.31300000000002,188.805,12,3,,,3,,,3,2,1,2,1,2,1,22,
+R_1GmvhPodoF4HtTD,Default Response Set,Anonymous,,,182,0,2014-07-29 12:15:00,2014-07-29 12:18:43,1,control,1,1,1,1,,,4,1,4,1,1,1,58.592,72.33500000000001,78.705,6,6,,,6,,,1,7,3,1,5,2,1,18,I learned something. The layout was very easy to use.
+R_eM88da87wY1gbLn,Default Response Set,Anonymous,,,450,0,2014-07-29 12:16:56,2014-07-29 12:18:57,1,Bush,1,1,1,,1,,1,5,1,1,5,3,20.974,31.092,33.876,7,1,,,7,,,2,1,1,1,5,2,1,22,Interesting study.
+R_eQYtaQLC6SZd3sV,Default Response Set,Anonymous,,,201,0,2014-07-29 12:17:48,2014-07-29 12:19:44,1,Obama,1,1,1,,,1,2,4,2,5,4,4,42.168,56.799,57.491,7,4,,,6,,,1,7,2,1,7,5,2,38,none
+R_79eqSMzBBdKgkGV,Default Response Set,Anonymous,,,165,0,2014-07-29 12:19:17,2014-07-29 12:20:45,1,control,1,1,1,1,,,1,5,1,5,5,5,10.257,23.146,25.019,6,1,,,1,,,2,8,8,2,1,1,1,31,
+R_5sv1eonXNQF61aB,Default Response Set,Anonymous,,,8,0,2014-07-29 12:17:45,2014-07-29 12:21:06,1,control,1,1,1,1,,,5,1,4,2,2,1,96.819,123.29,124.279,8,5,,,5,,,1,7,2,2,4,1,2,51,no
+R_etdHn9uu1ZpHLj7,Default Response Set,Anonymous,,,271,0,2014-07-29 12:20:15,2014-07-29 12:21:15,1,Bush,1,1,1,,1,,2,3,2,2,3,4,2.196,4.552,8.897,7,5,,1,4,,1,2,3,6,2,1,3,1,20,no
+R_3rDy1hzvqRFBwJ7,Default Response Set,Anonymous,,,452,0,2014-07-29 12:13:09,2014-07-29 12:21:25,1,control,1,1,1,1,,,1,5,1,5,5,5,413.779,422.5690000000001,423.552,6,7,,,7,,,3,8,1,2,1,2,1,39,N/A
+R_8B6WscykUQy5s1f,Default Response Set,Anonymous,,,318,0,2014-07-29 12:18:13,2014-07-29 12:21:31,1,Obama,1,1,1,,,1,2,3,2,4,3,3,73.717,98.144,99.446,6,3,,,3,,,2,1,3,2,1,1,1,26,
+R_1Lmhw71pVWfKgVD,Default Response Set,Anonymous,,,350,0,2014-07-29 12:25:32,2014-07-29 12:27:38,1,Obama,1,1,1,,,1,1,5,1,5,5,5,46.096,57.54899999999999,58.659,6,1,,,7,,,3,6,1,2,1,1,2,27,
+R_0pIev4UVsFb6vMV,Default Response Set,Anonymous,,,421,0,2014-07-29 12:29:17,2014-07-29 12:31:00,1,control,1,1,1,1,,,4,2,5,4,3,5,5.733,17.171999999999997,18.983,6,6,,,4,,,2,6,1,1,6,4,1,50,
+R_8nTxR3ULKc8V5wF,Default Response Set,Anonymous,,,160,0,2014-07-29 12:29:08,2014-07-29 12:32:17,1,Bush,1,1,1,,1,,2,3,2,4,4,4,34.17,44.715999999999994,45.73,7,2,,,3,,,2,4,6,2,1,3,2,26,
+R_4GgxXfu0oRRnOuN,Default Response Set,Anonymous,,,24,0,2014-07-29 12:28:21,2014-07-29 12:32:27,1,Bush,1,1,1,,1,,2,4,1,5,5,5,2.593,81.266,91.426,7,4,,,6,,,1,3,2,2,1,1,2,27,I enjoyed this survey and wish to thank you for the chance to express my opinions. I hope that they are beneficial to your study!
+R_067QitMncVLU0DP,Default Response Set,Anonymous,,,376,0,2014-07-29 12:30:20,2014-07-29 12:33:08,1,Obama,1,1,1,,,1,4,2,3,4,3,4,88.48,97.079,97.801,9,4,,,4,,,1,4,4,1,4,2,1,31,
+R_eJradR9OfNV6e8d,Default Response Set,Anonymous,,,45,0,2014-07-29 12:31:18,2014-07-29 12:33:32,1,control,1,1,1,1,,,4,2,4,2,2,2,7.734,63.812999999999995,64.504,10,4,,,4,,,3,2,4,2,1,3,1,26,no
+R_bdBhffrQNyBStxz,Default Response Set,Anonymous,,,105,0,2014-07-29 12:32:29,2014-07-29 12:33:51,1,Obama,1,1,1,,,1,2,4,1,4,4,4,14.183,25.462999999999997,27.424,9,2,,,2,,,2,4,6,2,4,1,2,32,
+R_8CSrF9vq3DBPAJD,Default Response Set,Anonymous,,,414,0,2014-07-29 12:33:35,2014-07-29 12:35:50,1,control,1,1,1,1,,,3,4,4,5,3,4,9.799,67.77499999999999,68.538,11,3,,,5,,,3,3,3,2,1,1,1,19,
+R_cBd3CQePr4gQi3j,Default Response Set,Anonymous,,,37,0,2014-07-29 12:35:18,2014-07-29 12:37:41,1,Bush,1,1,1,,1,,4,1,3,3,3,3,40.759,51.43900000000001,52.109,8,1,,,3,,,2,2,7,2,1,2,1,22,
+R_9MtIWNhUQugLpRP,Default Response Set,Anonymous,,,449,0,2014-07-29 12:35:56,2014-07-29 12:38:01,1,Obama,1,1,1,,,1,4,2,3,4,2,3,45.803,56.227000000000004,56.989,6,2,,,2,,,2,4,4,2,1,2,2,23,No
+R_dbDP0pNCSgx2Q3H,Default Response Set,Anonymous,,,142,0,2014-07-29 12:37:42,2014-07-29 12:38:52,1,Bush,1,1,1,,1,,4,1,3,4,1,2,23.849,29.322000000000003,31.207,6,2,,,2,,,2,1,6,2,1,4,2,19,
+R_3Vj9DvJGPTqWXDD,Default Response Set,Anonymous,,,269,0,2014-07-29 12:36:20,2014-07-29 12:40:00,1,control,1,1,1,1,,,2,2,2,4,4,4,63.515,73.124,73.461,8,5,,,3,,,1,3,3,2,1,2,1,267,
+R_06B95nKf8YKts3j,Default Response Set,Anonymous,,,434,0,2014-07-29 12:38:32,2014-07-29 12:40:10,1,Bush,1,1,1,,1,,2,3,1,5,5,3,32.215,45.839000000000006,46.41,6,3,,,5,,,3,4,1,2,1,1,2,21,
+R_aWbOT2PUubQEQlL,Default Response Set,Anonymous,,,83,0,2014-07-29 12:32:53,2014-07-29 12:41:19,1,Bush,1,1,1,,1,,3,3,3,3,3,3,52.184,54.523,56.063,6,3,,,6,,,2,3,4,2,1,1,2,20,
+R_2snb6FVdcnpEcNT,Default Response Set,Anonymous,,,207,0,2014-07-29 12:41:11,2014-07-29 12:43:04,1,Obama,1,1,1,,,1,2,5,2,4,4,4,20.493,25.561,26.68,7,4,,,4,,,3,2,6,2,4,1,2,29,
+R_a5lZh50p303gdNP,Default Response Set,Anonymous,,,56,0,2014-07-29 12:41:44,2014-07-29 12:43:15,1,control,1,1,1,1,,,4,2,3,4,3,4,24.596,36.313,37.013,7,1,,,1,,,2,2,6,1,6,2,2,25,Thanks!
+R_3EufQ5Vk7embCLP,Default Response Set,Anonymous,,,205,0,2014-07-29 12:40:59,2014-07-29 12:43:18,1,control,1,1,1,1,,,5,1,4,3,2,5,60.321,76.145,77.456,7,5,,,5,,,1,7,1,2,1,1,2,29,
+R_4Pfhedb9ejZrp0V,Default Response Set,Anonymous,,,327,0,2014-07-29 12:42:21,2014-07-29 12:44:05,1,Bush,1,1,1,,1,,2,4,3,4,3,4,41.142,51.047,51.834,6,2,,,2,,,2,2,3,2,1,1,2,31,
+R_1HpwVHlZWtZ0z1X,Default Response Set,Anonymous,,,35,0,2014-07-29 12:42:09,2014-07-29 12:45:49,1,Obama,1,1,1,,,1,4,2,3,5,2,5,83.828,103.78000000000002,105.964,8,2,,,3,,,3,1,3,1,6,4,2,28,nothing to add
+R_cIR1wV2QqD3k7kh,Default Response Set,Anonymous,,,212,0,2014-07-29 12:44:04,2014-07-29 12:45:55,1,Bush,1,1,1,,1,,3,3,2,4,4,4,55.066,63.81000000000001,66.461,8,1,,,2,,,2,1,7,2,1,2,1,29,
+R_9XP42KzK9uWx5VX,Default Response Set,Anonymous,,,64,0,2014-07-29 12:43:58,2014-07-29 12:45:57,1,Obama,1,1,1,,,1,4,2,3,5,2,4,34.633,46.406,47.979,6,1,,,3,,,2,2,7,2,1,1,1,30,
+R_6lYPF5dUk3pDR1H,Default Response Set,Anonymous,,,75,0,2014-07-29 12:45:27,2014-07-29 12:46:55,1,control,1,1,1,1,,,1,5,1,5,5,5,21.063,27.547000000000004,40.037,6,1,,,5,,,3,4,3,2,1,1,1,24,
+R_8CyeskLi02qkRYp,Default Response Set,Anonymous,,,437,0,2014-07-29 12:46:07,2014-07-29 12:47:26,1,control,1,1,1,1,,,5,1,5,3,1,3,20.859,32.467000000000006,33.349,7,1,,,2,,,2,1,8,1,8,5,1,36,
+R_6xQUOIOTO2mQLkx,Default Response Set,Anonymous,,,161,0,2014-07-29 12:28:22,2014-07-29 12:47:58,1,control,1,1,1,1,,,5,2,4,5,3,5,23.456,37.442,38.126,8,3,,,4,,,3,1,1,2,1,5,1,31,
+R_cYIxPrQ6rl9hGi9,Default Response Set,Anonymous,,,141,0,2014-07-29 12:47:44,2014-07-29 12:48:41,1,Obama,1,1,1,,,1,2,3,2,3,3,3,6.301,8.925000000000002,9.998,6,3,,,3,,,2,2,4,1,4,3,1,30,
+R_bOguLpbYuSco7OZ,Default Response Set,Anonymous,,,167,0,2014-07-29 12:45:51,2014-07-29 12:48:53,1,Bush,1,1,1,,1,,1,5,1,5,5,3,9.431,44.509,45.287,7,4,,,4,,,3,2,2,2,1,1,1,24,
+R_9WVqtY1xGb8nOx7,Default Response Set,Anonymous,,,356,0,2014-07-29 12:48:46,2014-07-29 12:50:04,1,Obama,1,1,1,,,1,3,4,2,5,4,4,23.099,32.013,32.68,6,2,,,3,,,2,3,2,2,1,2,2,35,
+R_bfSc7g8azViBV77,Default Response Set,Anonymous,,,247,0,2014-07-29 12:47:26,2014-07-29 12:50:28,1,control,1,1,1,1,,,5,5,5,1,1,1,60.954,76.77200000000002,77.787,6,4,,,4,,,1,8,1,2,1,1,2,59,Thank you and I hope we can work together again.
+R_6fj4ZuinimuZlaZ,Default Response Set,Anonymous,,,34,0,2014-07-29 12:49:22,2014-07-29 12:50:39,1,control,1,1,1,1,,,4,1,3,3,2,3,18.079,28.855999999999998,29.76,6,2,,,4,,,3,4,3,2,1,5,1,22,Thanks!
+R_bHEXTb3MeCLC7zv,Default Response Set,Anonymous,,,298,0,2014-07-29 12:47:56,2014-07-29 12:51:50,1,Bush,1,1,1,,1,,4,2,3,4,2,3,1.505,73.083,75.862,7,3,,,3,,,2,4,3,1,5,2,2,20,
+R_5aKKpHWJK1Z52f3,Default Response Set,Anonymous,,,103,0,2014-07-29 12:50:58,2014-07-29 12:52:04,1,Obama,1,1,1,,,1,5,2,3,3,2,2,7.864,14.593,15.66,8,5,,,5,,,1,3,2,2,1,3,1,24,Good Survey. 
+R_2spb6PyhZQb6Jbn,Default Response Set,Anonymous,,,166,0,2014-07-29 12:49:57,2014-07-29 12:52:36,1,Bush,1,1,1,,1,,4,2,3,4,3,4,35.305,44.18699999999999,45.162,6,2,,,2,,,2,2,3,2,4,2,2,22,no comments 
+R_bmBBS65jo2nAVfv,Default Response Set,Anonymous,,,225,0,2014-07-29 12:51:47,2014-07-29 12:53:04,1,Bush,1,1,1,,1,,2,2,4,4,3,3,1.029,4.476,18.232,15,3,,,5,,,3,3,1,2,1,2,2,22,no comment
+R_3lVfKVnUs8xXMhv,Default Response Set,Anonymous,,,428,0,2014-07-29 12:52:28,2014-07-29 12:53:37,1,control,1,1,1,1,,,4,2,3,5,2,3,17.784,25.789999999999996,27.041,8,5,,,5,,,1,6,6,2,1,2,1,19,
+R_dgnFtHUTCeEuSiN,Default Response Set,Anonymous,,,419,0,2014-07-29 12:51:00,2014-07-29 12:55:11,1,control,1,1,1,1,,,1,5,1,5,5,5,88.776,116.58,118.07,7,5,,,6,,,3,6,1,2,1,1,2,57,
+R_d0yZSCFZKYXl2aV,Default Response Set,Anonymous,,,352,0,2014-07-29 12:46:17,2014-07-29 12:56:33,1,Obama,1,1,1,,,1,5,1,4,3,1,2,52.748,63.699999999999996,64.359,6,3,,,3,,,2,2,4,2,1,1,1,39,
+R_6tz8U5LFvQMCIcd,Default Response Set,Anonymous,,,249,0,2014-07-29 12:54:30,2014-07-29 12:58:05,1,Bush,1,1,1,,1,,2,4,2,5,4,2,74.495,96.47000000000001,100.051,6,5,,,5,,,1,3,4,2,1,3,1,45,
+R_dbPn1AQOYoZvWeh,Default Response Set,Anonymous,,,369,0,2014-07-29 12:59:33,2014-07-29 13:01:55,1,Bush,1,1,1,,1,,2,5,1,5,5,3,43.854,60.46900000000001,61.905,6,6,,,5,,,2,2,4,1,6,2,2,33,
+R_cC1VkyNZ30204El,Default Response Set,Anonymous,,,137,0,2014-07-29 12:59:02,2014-07-29 13:02:08,1,Obama,1,1,1,,,1,4,1,4,5,2,3,3.921,109.47400000000002,110.159,11,2,,,3,,,2,3,7,1,4,2,2,34,All of the instructions seemed clear.
+R_3ZQSgzRemRhzpFb,Default Response Set,Anonymous,,,286,0,2014-07-29 13:03:30,2014-07-29 13:04:42,1,control,1,1,1,1,,,5,2,3,5,3,4,2.252,31.9,32.541,12,2,,,3,,,2,4,6,2,1,3,1,19,
+R_beK269Cjamx7kwd,Default Response Set,Anonymous,,,409,0,2014-07-29 12:37:19,2014-07-29 13:05:01,1,Obama,1,1,1,,,1,3,3,3,5,3,4,1572.216,1583.454,1584.215,7,3,,,4,,,3,1,4,2,1,1,1,25,
+R_a4xnjJvUQizkrad,Default Response Set,Anonymous,,,297,0,2014-07-29 13:03:54,2014-07-29 13:06:43,1,Obama,1,1,1,,,1,2,4,2,4,4,4,40.897,48.413999999999994,49.114,6,6,,,6,,,1,6,1,2,1,3,2,26,Thank you for this opportunity! Good luck with your research!
+R_d5qRowVgVaSk6qh,Default Response Set,Anonymous,,,439,0,2014-07-29 13:04:06,2014-07-29 13:07:05,1,Obama,1,1,1,,,1,1,5,1,5,5,4,49.268,59.525000000000006,93.834,6,4,,,4,,,1,8,1,2,1,1,2,28,
+R_1SQ5UtLwE7YWtvL,Default Response Set,Anonymous,,,311,0,2014-07-29 13:05:13,2014-07-29 13:08:36,1,control,1,1,1,1,,,3,3,2,5,4,4,6.166,65.34100000000001,68.22,8,4,,,5,,,1,8,2,2,1,1,1,51,
+R_1RLkxX8e5e4q0Ch,Default Response Set,Anonymous,,,26,0,2014-07-29 13:06:59,2014-07-29 13:09:00,1,control,1,1,1,1,,,5,1,5,1,1,2,40.288,47.928,49.446,7,2,,,2,,,2,1,7,2,1,1,2,20,
+R_1Tf4FdfIc1R88xD,Default Response Set,Anonymous,,,52,0,2014-07-29 13:06:09,2014-07-29 13:09:58,1,Obama,1,1,1,,,1,1,5,1,5,5,5,152.76,174.20399999999998,175.466,7,2,,,5,,,1,6,2,2,1,1,2,26,
+R_02i75OWpRCIS7Jz,Default Response Set,Anonymous,,,274,0,2014-07-29 13:07:35,2014-07-29 13:10:24,1,Bush,1,1,1,,1,,3,3,3,5,3,2,50.745,68.955,72.235,6,6,,,6,,,1,7,4,2,1,1,2,55,Interesting.
+R_cDaxDrpRD0uSCG1,Default Response Set,Anonymous,,,284,0,2014-07-29 13:08:44,2014-07-29 13:10:50,1,control,1,1,1,1,,,4,2,4,4,1,4,48.316,67.804,68.648,6,2,,,5,,,3,2,4,2,1,4,2,20,
+R_6EwuxWV4io7bIsB,Default Response Set,Anonymous,,,13,0,2014-07-29 13:05:52,2014-07-29 13:13:17,1,Bush,1,1,1,,1,,1,5,1,5,5,5,4.24,64.776,68.307,8,4,,,4,,,3,1,1,2,1,2,1,30,Thank you!
+R_6Q1kBdyE3W7iRFj,Default Response Set,Anonymous,,,445,0,2014-07-29 13:12:38,2014-07-29 13:15:02,1,Bush,1,1,1,,1,,2,4,2,5,5,3,78.725,88.38799999999999,89.353,6,2,,,2,,,2,1,3,2,1,2,1,45,nope
+R_d4kbsfeU1O6mvNH,Default Response Set,Anonymous,,,88,0,2014-07-29 13:14:20,2014-07-29 13:16:35,1,control,1,1,1,1,,,2,4,3,4,3,4,46.808,57.260999999999996,58.574,6,6,,,6,,,1,6,2,2,1,1,2,47,thanks
+R_b10lekTLs9pLs9v,Default Response Set,Anonymous,,,395,0,2014-07-29 13:07:17,2014-07-29 13:17:48,1,Bush,1,1,1,,1,,4,2,4,3,3,3,9.955,486.00300000000004,488.056,24,2,,,4,,,3,2,2,2,4,3,2,24,N/A
+R_3xDqzPsdi2wtVmB,Default Response Set,Anonymous,,,183,0,2014-07-29 13:17:15,2014-07-29 13:18:40,1,Obama,1,1,1,,,1,2,4,2,5,4,5,29.069,39.513,40.33,6,2,,,4,,,2,4,3,1,4,2,1,23,
+R_ddmr82b3ClH8YTz,Default Response Set,Anonymous,,,367,0,2014-07-29 13:09:23,2014-07-29 13:20:39,1,Obama,1,1,1,,,1,5,1,4,2,2,3,51.481,386.353,387.415,7,3,,,2,,,2,2,3,2,1,1,1,46,
+R_8vHWytvll2NGuep,Default Response Set,Anonymous,,,104,0,2014-07-29 13:18:37,2014-07-29 13:20:40,1,Bush,1,1,1,,1,,1,4,2,5,4,4,48.318,63.468999999999994,65.674,7,3,,,3,,,2,1,6,2,1,2,2,37,
+R_3aNTBQ5KeekTZB3,Default Response Set,Anonymous,,,164,0,2014-07-29 13:17:55,2014-07-29 13:20:54,1,Obama,1,1,1,,,1,3,3,3,4,3,5,37.332,47.291,55.295,6,3,,,6,,,3,1,2,2,1,2,1,39,
+R_1ySdjC0RW19Ymyh,Default Response Set,Anonymous,,,155,0,2014-07-29 13:20:26,2014-07-29 13:22:04,1,Bush,1,1,1,,1,,4,2,3,4,2,5,25.492,34.925000000000004,36.008,6,5,,,5,,,1,2,2,2,1,,1,41,
+R_6MDWdoBP07XMTY1,Default Response Set,Anonymous,,,326,0,2014-07-29 13:21:18,2014-07-29 13:22:45,1,Obama,1,1,1,,,1,3,3,3,3,3,3,4.753,15.935000000000002,17.45,19,4,,,4,,,3,3,3,2,1,1,1,26,none
+R_5ySsoPCVQFI6F6J,Default Response Set,Anonymous,,,22,0,2014-07-29 13:23:25,2014-07-29 13:24:10,1,Obama,1,1,1,,,1,4,4,3,5,5,4,2.273,5.046,6.399,8,2,,,2,,,2,1,6,2,4,3,1,24,
+R_cLLuBu1BkJ0hN4x,Default Response Set,Anonymous,,,214,0,2014-07-29 13:24:03,2014-07-29 13:25:15,1,Obama,1,1,1,,,1,1,5,2,4,4,4,15.866,23.874,24.677,6,3,,,5,,,1,3,3,2,1,1,1,40,none
+R_d43T9pDvqYbJeOp,Default Response Set,Anonymous,,,359,0,2014-07-29 13:21:14,2014-07-29 13:25:21,1,control,1,1,1,1,,,4,2,2,4,4,4,131.982,168.61600000000004,169.631,9,3,,,5,,,1,4,2,2,1,2,1,40,
+R_8Bu3VgU8FegJUSF,Default Response Set,Anonymous,,,416,0,2014-07-29 13:23:04,2014-07-29 13:25:34,1,Bush,1,1,1,,1,,4,2,3,4,3,4,63.395,75.565,76.482,6,1,,,2,,,2,4,3,2,1,1,2,32,
+R_2sFdLX5fPNlvOcd,Default Response Set,Anonymous,,,12,0,2014-07-29 13:23:45,2014-07-29 13:26:50,1,control,1,1,1,1,,,4,2,1,5,4,5,46.167,58.041999999999994,58.867,6,1,,,2,,,2,1,3,2,1,4,2,27,Thanks! I had no idea about the pension protection act. 
+R_6h4GfUS6laRTf9P,Default Response Set,Anonymous,,,198,0,2014-07-29 13:20:02,2014-07-29 13:29:06,1,control,1,1,1,1,,,1,5,4,5,4,5,191.121,353.54100000000005,357.677,9,4,,,4,,,3,3,4,1,7,1,2,51,Interesting study. thanks!
+R_2bCp1zxh5y0T1uB,Default Response Set,Anonymous,,,223,0,2014-07-29 13:26:46,2014-07-29 13:32:30,1,Bush,1,1,1,,1,,3,3,2,4,3,4,42.76,52.395999999999994,53.07,7,2,,,2,,,2,2,6,1,7,4,2,32,
+R_5jLZlZs2vbaG16d,Default Response Set,Anonymous,,,261,0,2014-07-29 13:32:04,2014-07-29 13:33:39,1,Bush,1,1,1,,1,,4,2,3,3,3,3,35.867,45.923,46.654,8,1,,,1,,,2,2,7,1,6,4,1,37,
+R_3DUqCmvtcOXAQzr,Default Response Set,Anonymous,,,429,0,2014-07-29 13:31:15,2014-07-29 13:35:16,1,control,1,1,1,1,,,4,2,4,3,2,3,77.344,102.88,103.746,7,5,,,5,,,3,7,4,2,1,1,2,47,No
+R_4MmDqLjSSnIXzSd,Default Response Set,Anonymous,,,330,0,2014-07-29 13:30:35,2014-07-29 13:36:25,1,control,1,1,1,1,,,1,4,3,5,3,5,94.731,117.39399999999998,118.191,6,4,,,3,,,2,1,3,2,1,3,2,21,thanks 
+R_20sX8guuRxxbdK5,Default Response Set,Anonymous,,,440,0,2014-07-29 13:34:49,2014-07-29 13:38:04,1,Obama,1,1,1,,,1,2,4,2,5,4,4,76.589,102.01299999999999,103.784,9,2,,,2,,,2,2,3,1,4,1,2,28,Thank you.
+R_07kxwc8yMPQrnwh,Default Response Set,Anonymous,,,319,0,2014-07-29 13:39:31,2014-07-29 13:41:02,1,Obama,1,1,1,,,1,1,5,2,4,4,4,34.981,46.44400000000001,47.808,8,3,,,7,,,3,4,1,2,1,5,1,32,
+R_1XGUICE7wVX7Abz,Default Response Set,Anonymous,,,63,0,2014-07-29 13:39:31,2014-07-29 13:42:01,1,control,1,1,1,1,,,4,2,4,5,2,5,44.609,58.759,59.398,6,3,,,4,,,3,2,2,1,6,2,1,65,
+R_ebsLwlpTBqd3ECF,Default Response Set,Anonymous,,,150,0,2014-07-29 13:41:00,2014-07-29 13:42:58,1,Bush,1,1,1,,1,,3,3,2,5,3,4,32.845,43.968999999999994,45.04,6,3,,,3,,,3,4,4,2,4,2,2,26,
+R_cN5drO5MbFbWQRf,Default Response Set,Anonymous,,,328,0,2014-07-29 13:41:30,2014-07-29 13:43:05,1,control,1,1,1,1,,,4,2,4,2,2,3,27.786,38.401,39.324,6,4,,,4,,,3,6,6,2,5,3,1,21,
+R_ebQXthQVLW274WN,Default Response Set,Anonymous,,,218,0,2014-07-29 13:42:25,2014-07-29 13:44:16,1,Obama,1,1,1,,,1,4,1,4,3,1,4,31.708,43.65200000000001,48.222,6,2,,,2,,,2,2,4,2,1,1,2,52,
+R_6RK7BPrJmDfShU1,Default Response Set,Anonymous,,,228,0,2014-07-29 13:42:45,2014-07-29 13:44:55,1,Bush,1,1,1,,1,,4,2,3,4,3,4,32.35,44.743,45.882,6,2,,,2,,,2,4,3,2,1,3,2,46,Thank you for the opportunity
+R_9n6vCSezSFYRLTL,Default Response Set,Anonymous,,,257,0,2014-07-29 13:45:19,2014-07-29 13:47:09,1,Obama,1,1,1,,,1,2,4,1,4,4,3,46.492,53.774,54.552,7,5,,,5,,,1,6,1,1,7,5,2,21,
+R_3t20wveCJztbu1D,Default Response Set,Anonymous,,,307,0,2014-07-29 13:50:26,2014-07-29 13:52:09,1,control,1,1,1,1,,,5,1,4,3,3,3,36.259,43.76400000000001,44.599,6,3,,,5,,,2,6,6,2,4,3,1,26,
+R_2mXU9pINCQvu9HD,Default Response Set,Anonymous,,,273,0,2014-07-29 13:48:11,2014-07-29 13:54:57,1,Bush,1,1,1,,1,,2,4,1,5,3,4,28.565,108.83699999999999,111.858,9,3,,,3,,,3,4,6,2,1,3,1,58,Thanks for asking! / facebook automatically opted people into something a year or two ago and caused a big controversy
+R_dccC4oU6Qhp6Vp3,Default Response Set,Anonymous,,,435,0,2014-07-29 13:55:28,2014-07-29 13:56:41,1,Obama,1,1,1,,,1,4,4,4,3,3,4,19.822,25.102000000000004,25.797,6,3,,,6,,,3,3,4,2,1,2,1,19,
+R_0v4Rf3AJpmmEmfr,Default Response Set,Anonymous,,,427,0,2014-07-29 13:56:48,2014-07-29 13:58:22,1,Bush,1,1,1,,1,,4,1,5,1,1,1,16.091,46.46900000000001,47.258,11,2,,,6,,,1,3,1,2,1,3,1,24,
+R_2b2TD7ACpL6BstD,Default Response Set,Anonymous,,,294,0,2014-07-29 13:59:08,2014-07-29 14:01:53,1,control,1,1,1,1,,,3,3,3,3,3,3,52.242,64.36899999999999,65.478,6,6,,,6,,,1,3,4,2,1,1,2,28,
+R_724PDEi5AjDdpYx,Default Response Set,Anonymous,,,254,0,2014-07-29 14:00:54,2014-07-29 14:03:21,1,Obama,1,1,1,,,1,2,4,2,3,3,4,43.731,54.675,55.374,6,2,,,4,,,2,6,6,2,1,3,1,18,
+R_bJl4SLVM5OckYWp,Default Response Set,Anonymous,,,320,0,2014-07-29 14:05:55,2014-07-29 14:08:36,1,control,1,1,1,1,,,5,1,4,3,1,3,37.288,67.859,69.357,7,2,,,2,,,2,1,6,2,1,3,1,29,no thank you
+R_dd4FjiDG0Oyy6yh,Default Response Set,Anonymous,,,211,0,2014-07-29 14:04:27,2014-07-29 14:09:16,1,Bush,1,1,1,,1,,4,2,2,4,2,4,99.831,138.125,139.103,7,3,,,2,,,2,1,2,2,4,3,1,24,
+R_cN5hF2O8Q57q9Fz,Default Response Set,Anonymous,,,351,0,2014-07-29 14:08:53,2014-07-29 14:12:04,1,control,1,1,1,1,,,3,2,2,4,3,4,71.178,90.497,91.374,6,6,,,6,,,3,2,4,2,1,1,2,48,
+R_bjB4lQseZOhTnmJ,Default Response Set,Anonymous,,,16,0,2014-07-29 14:10:28,2014-07-29 14:12:14,1,Bush,1,1,1,,1,,3,2,4,3,4,2,13.836,25.708999999999996,26.563,10,4,,,4,,,3,2,4,2,1,2,1,21,
+R_3k0L8hb2gd4CpXn,Default Response Set,Anonymous,,,255,0,2014-07-29 14:11:03,2014-07-29 14:13:58,1,Bush,1,1,1,,1,,3,3,4,4,2,1,40.79,77.963,85.148,8,1,,,1,,,2,1,8,2,1,1,2,59,
+R_3mbD8OH2zNg48eN,Default Response Set,Anonymous,,,196,0,2014-07-29 14:13:05,2014-07-29 14:15:32,1,control,1,1,1,1,,,5,1,4,2,2,2,56.309,66.093,67.992,6,1,,,1,,,2,1,7,2,1,3,1,50,
+R_9HVpXVYrarteoo5,Default Response Set,Anonymous,,,309,0,2014-07-29 14:13:58,2014-07-29 14:19:02,1,Obama,1,1,1,,,1,4,2,5,2,1,1,142.466,183.66300000000007,184.658,9,1,,,1,,,2,1,7,2,1,1,2,21,I have no comments
+R_bmzGNv7tT4PJRk1,Default Response Set,Anonymous,,,441,0,2014-07-29 14:19:19,2014-07-29 14:22:15,1,Obama,1,1,1,,,1,4,3,2,4,3,4,84.757,99.429,102.375,7,2,,,5,,,2,4,3,2,1,2,1,24,
+R_3VKg9ci13CyGNSd,Default Response Set,Anonymous,,,60,0,2014-07-29 14:21:04,2014-07-29 14:24:06,1,control,1,1,1,1,,,3,3,3,4,3,4,0.397,69.828,73.161,8,7,,,7,,,1,8,1,2,1,1,2,51,none
+R_8bR2ijZtlNjREH3,Default Response Set,Anonymous,,,397,0,2014-07-29 14:24:31,2014-07-29 14:27:35,1,Bush,1,1,1,,1,,2,4,3,5,4,5,46.263,66.303,83.258,6,3,,,6,,,2,1,7,2,1,1,1,67,none
+R_bfpb4xBmrbs8ZXn,Default Response Set,Anonymous,,,143,0,2014-07-29 14:26:28,2014-07-29 14:29:08,1,Bush,1,1,1,,1,,4,2,4,4,2,4,44.244,91.68299999999999,99.677,6,1,,,1,,,2,2,7,2,1,1,1,20,No.
+R_eJUJhbG84KXE0Lz,Default Response Set,Anonymous,,,360,0,2014-07-29 14:24:58,2014-07-29 14:29:49,1,Obama,1,1,1,,,1,1,5,3,5,3,5,91.359,123.44699999999999,124.738,6,7,,,7,,,1,3,1,2,1,1,2,58,
+R_2tULTd5ffWNPfTL,Default Response Set,Anonymous,,,379,0,2014-07-29 14:31:19,2014-07-29 14:32:28,1,control,1,1,1,1,,,4,3,4,2,4,3,2.297,6.302,7.322,8,4,1,,4,,,2,6,4,2,6,2,2,22,none
+R_50wXB3jEukjeqFv,Default Response Set,Anonymous,,,50,0,2014-07-29 14:39:52,2014-07-29 14:41:09,1,Bush,1,1,1,,1,,4,2,4,4,2,4,24.991,32.967,33.442,6,2,,,2,,,2,2,6,2,1,3,2,23,no
+R_6Pv3Mt7niKbT6st,Default Response Set,Anonymous,,,278,0,2014-07-29 14:51:13,2014-07-29 14:53:31,1,control,1,1,1,1,,,1,5,1,1,1,1,3.551,20.077999999999996,21.281,15,2,,,4,,,3,1,1,2,1,1,1,23,no
+R_1GFwOmbdSMxZBHf,Default Response Set,Anonymous,,,446,0,2014-07-29 15:12:41,2014-07-29 15:15:17,1,Obama,1,1,1,,,1,1,5,1,5,1,5,48.814,61.157,62.164,6,4,,,4,,,3,1,1,1,6,2,2,32,
+R_37VphMdJmNHFVJz,Default Response Set,Anonymous,,,252,0,2014-07-29 15:22:36,2014-07-29 15:26:19,1,control,1,1,1,1,,,4,1,3,4,1,3,5.674,16.433999999999997,17.028,7,2,,,1,,,2,1,8,2,5,1,2,21,
+R_79GbfWkFf8jJhRj,Default Response Set,Anonymous,,,197,0,2014-07-29 15:42:46,2014-07-29 15:44:22,1,Bush,1,1,1,,1,,2,4,3,4,3,4,29.643,41.291999999999994,42.504,7,3,,,5,,,3,6,6,2,1,3,1,20,
+R_81RL7ak9OIcJO6x,Default Response Set,Anonymous,,,144,0,2014-07-29 15:47:39,2014-07-29 15:49:18,1,control,1,1,1,1,,,4,2,4,4,2,3,14.524,23.169,24.619,6,1,,,1,,,2,1,8,2,1,1,1,38,No
+R_8AeD5I4UQoSHELH,Default Response Set,Anonymous,,,17,0,2014-07-29 15:47:09,2014-07-29 15:51:05,1,Obama,1,1,1,,,1,3,3,2,5,4,4,92.851,104.335,105.142,6,3,,,5,,,2,7,3,2,4,2,2,42,
+R_3NRtpscSC7n6ch7,Default Response Set,Anonymous,,,290,0,2014-07-29 15:53:43,2014-07-29 15:55:47,1,Bush,1,1,1,,1,,4,2,3,3,3,3,47.119,52.888999999999996,53.562,6,3,,,3,,,2,3,6,2,4,2,2,26,
+R_0HQfJkFob80TEY5,Default Response Set,Anonymous,,,131,0,2014-07-29 15:53:55,2014-07-29 15:55:47,1,Obama,1,1,1,,,1,4,2,4,5,2,3,24.762,41.015,45.813,7,3,,,3,,,2,3,6,1,6,3,1,31,
+R_8kRY1xzRKvbUtQp,Default Response Set,Anonymous,,,398,0,2014-07-29 15:54:41,2014-07-29 15:56:23,1,control,1,1,1,1,,,4,2,3,3,1,3,25.768,39.73,40.138,7,1,,,2,,,3,2,3,1,5,4,2,26,
+R_9sDvyB8eS6BZRpH,Default Response Set,Anonymous,,,70,0,2014-07-29 15:57:03,2014-07-29 16:01:52,1,Obama,1,1,1,,,1,4,2,4,3,2,2,64.911,90.78699999999999,91.804,6,6,,,6,,,3,7,4,2,4,2,1,47,Thanks
+R_3ITn9ssRI2Kuvv7,Default Response Set,Anonymous,,,187,0,2014-07-29 16:17:42,2014-07-29 16:23:56,1,Bush,1,1,1,,1,,1,5,2,5,5,5,67.666,118.558,120.579,7,2,,,2,,,2,1,6,2,1,1,2,57,NONE
+R_1S13rcGGMvZjAu9,Default Response Set,Anonymous,,,388,0,2014-07-29 16:28:23,2014-07-29 16:29:32,1,control,1,1,1,1,,,5,4,4,3,3,3,1.733,6.142,6.459,10,7,,,6,,,2,7,8,2,1,2,2,30,
+R_5hFwqU90zRCKS1f,Default Response Set,Anonymous,,,51,0,2014-07-29 16:43:07,2014-07-29 16:45:07,1,Bush,1,1,1,,1,,5,1,5,3,1,4,37.217,53.589999999999996,54.866,9,1,,,1,,,2,1,3,1,4,4,1,34,None.
+R_9tzV0pj2PA1MkFD,Default Response Set,Anonymous,,,403,0,2014-07-29 16:43:46,2014-07-29 16:46:12,1,Bush,1,1,1,,1,,4,2,4,4,2,2,25.943,51.334,52.589,6,5,,,4,,,1,6,1,2,1,2,2,28,
+R_37xK72uE5dnWjjf,Default Response Set,Anonymous,,,43,0,2014-07-29 17:35:10,2014-07-29 17:40:35,1,Obama,1,1,1,,,1,4,2,4,2,2,2,7.22,171.28,173.222,7,4,,,,,,1,7,2,2,1,4,2,69,
+R_eeBFWX5RCa0G0MB,Default Response Set,Anonymous,,,233,0,2014-07-29 17:44:25,2014-07-29 17:47:07,1,control,1,1,1,1,,,3,3,3,4,3,4,41.939,51.5,52.221,6,2,,,2,,,2,1,6,2,1,1,1,29,Easy and fun! Thanks!
+R_5gSUUOkdaxw9pSB,Default Response Set,Anonymous,,,215,0,2014-07-29 17:58:19,2014-07-29 17:59:37,1,Bush,1,1,1,,1,,3,3,3,3,3,3,13.442,15.546000000000001,16.643,6,4,,,4,,,3,3,3,2,6,3,1,31,
+R_0lfrTpraeTRfs1f,Default Response Set,Anonymous,,,332,0,2014-07-29 18:00:23,2014-07-29 18:02:29,1,Obama,1,1,1,,,1,3,2,4,5,2,4,42.873,52.642999999999994,53.702,6,2,,,1,,,3,1,3,2,1,1,1,60,none
+R_25f4IL4ghi2Wtmt,Default Response Set,Anonymous,,,246,0,2014-07-29 18:16:37,2014-07-29 18:18:57,1,control,1,1,1,1,,,3,4,4,2,2,3,38.655,63.614000000000004,65.03,7,2,,,4,,,2,2,3,1,4,1,2,27,N/A
+R_3Q1nF89cRhYFoC9,Default Response Set,Anonymous,,,250,0,2014-07-29 18:07:52,2014-07-29 18:23:45,1,Obama,1,1,1,,,1,5,1,5,1,1,1,674.854,683.6540000000001,684.406,6,4,,,4,,,2,1,4,2,1,2,1,28,"Thanks! / I auto deduct a portion of my paycheck to retirement savings, go me? =)"
+R_dbuM5fo3aFJwnOd,Default Response Set,Anonymous,,,138,0,2014-07-29 18:35:28,2014-07-29 18:37:01,1,Bush,1,1,1,,1,,1,4,2,4,3,4,19.655,32.549,33.056,7,4,,,4,,,3,2,2,2,1,1,1,22,no
+R_bxCIOA2xX1gOaTH,Default Response Set,Anonymous,,,385,0,2014-07-29 18:40:01,2014-07-29 18:41:46,1,Bush,1,1,1,,1,,4,2,3,2,2,3,39.668,47.826,48.123,7,3,,,3,,,3,3,3,2,4,2,2,27,
+R_5vjr8GvA7h0BjTv,Default Response Set,Anonymous,,,156,0,2014-07-29 19:05:38,2014-07-29 19:08:00,1,Obama,1,1,1,,,1,2,4,3,3,3,3,56.011,63.675,64.688,6,4,,,4,,,2,2,4,2,1,1,2,29,
+R_9ueAdmS54mFCP9r,Default Response Set,Anonymous,,,401,0,2014-07-29 19:07:25,2014-07-29 19:10:41,1,Obama,1,1,1,,,1,2,4,2,5,4,4,69.193,85.4,90.319,6,3,,,7,,,3,7,1,1,7,4,1,54,No additional comments.
+R_9AexB7XKj4jSEjX,Default Response Set,Anonymous,,,97,0,2014-07-29 19:10:07,2014-07-29 19:12:04,1,control,1,1,1,1,,,5,1,5,3,1,3,38.075,48.535,63.72,6,,,1,,,1,3,6,6,2,1,1,2,19,
+R_6MCnaUr8IVeuBAp,Default Response Set,Anonymous,,,27,0,2014-07-29 19:00:22,2014-07-29 19:30:21,1,control,1,1,1,1,,,1,5,1,5,5,5,1021.345,1034.4959999999999,1035.875,7,5,,,5,,,3,4,1,2,1,1,2,25,Anything forced upon the citizens of the United States by Federal government is unconstitutional and unamerican.
+R_80nnVOv1MqCrktn,Default Response Set,Anonymous,,,369,0,2014-07-29 19:31:10,2014-07-29 19:33:30,1,Bush,1,1,1,,1,,1,5,2,4,4,3,3.645,50.021,50.983,26,4,,,4,,,3,1,1,1,5,2,1,31,
+R_8eadyXcYXj7WW5n,Default Response Set,Anonymous,,,80,0,2014-07-29 19:35:15,2014-07-29 19:36:57,1,Bush,1,1,1,,1,,4,1,4,3,2,3,30.488,46.813,48.18,9,1,,,2,,,2,2,6,2,1,2,1,42,
+R_5mUntS5T0gDyZ9P,Default Response Set,Anonymous,,,216,0,2014-07-29 19:36:58,2014-07-29 19:37:45,1,Obama,1,1,1,,,1,4,3,4,3,2,2,1.894,5.8,6.628,6,3,,,2,,,3,4,4,2,4,3,1,18,none
+R_0lEUNgRJ88MOXOZ,Default Response Set,Anonymous,,,362,0,2014-07-29 19:38:40,2014-07-29 19:40:51,1,Obama,1,1,1,,,1,4,2,3,4,3,5,53.909,62.016,63.127,6,4,,,2,,,2,1,3,2,1,1,2,29,No. 
+R_do5idT3KBQQffuJ,Default Response Set,Anonymous,,,366,0,2014-07-29 19:37:51,2014-07-29 19:41:20,1,Bush,1,1,1,,1,,4,2,4,5,2,3,69.778,83.843,85.304,6,4,,,5,,,1,6,7,2,1,2,2,47,Very interesting survey
+R_agVSp5vwH52n9Hv,Default Response Set,Anonymous,,,107,0,2014-07-29 19:42:39,2014-07-29 19:45:49,1,control,1,1,1,1,,,5,1,3,4,3,5,102.013,116.67900000000002,119.122,7,6,,,6,,,1,6,1,2,1,1,1,28,
+R_8uC3XQt34Hn8ruR,Default Response Set,Anonymous,,,402,0,2014-07-29 20:19:24,2014-07-29 20:25:02,1,Bush,1,1,1,,1,,3,2,3,4,3,4,240.023,248.672,249.363,6,4,,,4,,,3,3,1,2,1,1,2,45,
+R_9tsbIPX5OhSYHBP,Default Response Set,Anonymous,,,59,0,2014-07-29 20:21:20,2014-07-29 20:26:02,1,control,1,1,1,1,,,1,5,1,5,5,5,76.05,170.93699999999998,172.655,7,3,,,5,,,3,4,6,1,6,1,2,30,
+R_0B8uzK1o15cvNxb,Default Response Set,Anonymous,,,61,0,2014-07-29 20:23:02,2014-07-29 20:26:57,1,Obama,1,1,1,,,1,3,4,3,4,4,5,84.972,121.85999999999999,123.512,6,3,,,4,,,2,1,7,1,6,4,2,60,
+R_cDcgOvyvIGQmdKd,Default Response Set,Anonymous,,,344,0,2014-07-29 20:23:32,2014-07-29 20:29:16,1,Obama,1,1,1,,,1,2,4,3,5,3,5,152.359,168.221,169.384,6,4,,,7,,,3,6,1,2,1,1,2,22,"Interesting to learn about this policy. Very informative, and I hope people really think about the possible implications this could have in other programs within our society and the outcomes it could present."
+R_6DwG2HyWOslCpMh,Default Response Set,Anonymous,,,324,0,2014-07-29 20:44:04,2014-07-29 20:47:54,1,control,1,1,1,1,,,5,1,4,4,2,5,73.143,111.487,112.232,7,5,,,3,,,3,3,3,2,4,1,1,26,
+R_5mx3VxWVPJUYc3b,Default Response Set,Anonymous,,,25,0,2014-07-29 21:16:00,2014-07-29 21:19:28,1,Bush,1,1,1,,1,,4,2,4,3,2,2,29.681,39.294999999999995,40.076,6,5,,1,3,,1,2,4,6,2,4,2,1,28,no
+R_a3p93nsoD2V3WGF,Default Response Set,Anonymous,,,262,0,2014-07-29 21:18:03,2014-07-29 21:21:53,1,Bush,1,1,1,,1,,2,4,2,4,4,4,104.008,118.41599999999998,119.966,6,3,,,3,,,2,2,3,2,1,1,1,28,
+R_4PapXm7mDDEDw6p,Default Response Set,Anonymous,,,66,0,2014-07-29 21:24:19,2014-07-29 21:26:06,1,Obama,1,1,1,,,1,4,2,3,3,3,3,8.738,14.282000000000002,15.019,7,5,,,5,,,3,3,7,2,6,4,2,31,
+R_etgvwsWtzLD64Hr,Default Response Set,Anonymous,,,263,0,2014-07-29 21:22:43,2014-07-29 21:27:02,1,control,1,1,1,1,,,3,3,3,4,2,4,107.317,117.02799999999999,120.408,6,3,,,3,,,3,2,6,2,6,3,2,57,Interesting to learn about.
+R_czE3fkaPKnRA3Ax,Default Response Set,Anonymous,,,185,0,2014-07-29 21:28:14,2014-07-29 21:32:11,1,Bush,1,1,1,,1,,4,2,3,2,2,3,99.824,108.47699999999999,109.104,7,4,,,4,,,2,4,4,1,7,2,2,21,I have no comments at this time. Thank you!
+R_6tyOyYCdbjAt83z,Default Response Set,Anonymous,,,208,0,2014-07-29 21:34:23,2014-07-29 21:36:52,1,control,1,1,1,1,,,2,4,1,5,5,5,43.243,72.891,73.896,7,2,,,4,,,1,3,1,1,6,3,2,21,
+R_b9P5SPQgBviRelf,Default Response Set,Anonymous,,,18,0,2014-07-29 21:41:11,2014-07-29 21:42:55,1,Obama,1,1,1,,,1,5,1,5,4,1,1,24.184,34.545,35.997,6,1,,,1,,,2,2,6,2,1,4,1,19,
+R_cumEOOJM2LXYz9b,Default Response Set,Anonymous,,,232,0,2014-07-29 21:41:41,2014-07-29 21:46:11,1,Obama,1,1,1,,,1,2,4,2,4,4,3,98.269,107.69900000000001,110.344,6,6,,,6,,,1,7,1,2,4,5,2,33,
+R_6rQkPNwBdHqLMVv,Default Response Set,Anonymous,,,295,0,2014-07-29 21:48:54,2014-07-29 21:50:56,1,control,1,1,1,1,,,5,1,5,3,1,5,25.532,39.004999999999995,39.731,8,2,,,6,,,2,3,1,2,1,1,2,20,
+R_0fHAjjKQTMlP62F,Default Response Set,Anonymous,,,202,0,2014-07-29 22:11:50,2014-07-29 22:14:44,1,Bush,1,1,1,,1,,1,5,3,5,3,5,53.257,72.48599999999999,73.792,7,2,,,2,,,2,1,7,2,1,1,2,57,
+R_8ih9Q7dml4NtPTL,Default Response Set,Anonymous,,,7,0,2014-07-29 22:35:40,2014-07-29 22:38:48,1,control,1,1,1,1,,,1,4,2,5,2,4,26.046,91.935,92.625,13,2,,,2,,,2,4,6,2,4,2,1,19,
+R_bkeMnt7wy7iAhlX,Default Response Set,Anonymous,,,44,0,2014-07-29 22:35:59,2014-07-29 22:39:59,1,Bush,1,1,1,,1,,2,2,3,4,4,4,61.204,80.16300000000001,84.612,8,1,,,1,,,3,1,1,1,8,5,1,24,The separate pages were somewhat sluggish to load. The webpages' performance could be optimized a little more.
+R_b1xCXOpjZ0v1MAl,Default Response Set,Anonymous,,,188,0,2014-07-29 22:52:03,2014-07-29 22:54:04,1,Obama,1,1,1,,,1,4,2,3,2,2,2,44.505,60.945,63.26,8,1,,,1,,,2,2,3,2,1,2,1,21,
+R_1KXpYhqs1bw33yB,Default Response Set,Anonymous,,,432,0,2014-07-29 23:16:50,2014-07-29 23:19:49,1,control,1,1,1,1,,,3,4,3,4,2,3,87.164,98.49100000000001,99.903,6,3,,,3,,,3,3,4,2,1,2,2,23,
+R_9FBTo8pw3Q54j1X,Default Response Set,Anonymous,,,121,0,2014-07-29 23:26:17,2014-07-29 23:32:04,1,Obama,1,1,1,,,1,2,5,1,4,4,5,142.796,156.98600000000002,157.971,6,1,,,3,,,2,1,7,1,6,4,2,27,None so far.
+R_cSUKrJifM3zMzbL,Default Response Set,Anonymous,,,23,0,2014-07-29 23:32:32,2014-07-29 23:34:52,1,Bush,1,1,1,,1,,2,3,2,3,3,3,49.341,58.507999999999996,59.328,6,4,,,4,,,3,3,3,2,1,3,1,25,
+R_bgvMsj7TsEng8jb,Default Response Set,Anonymous,,,222,0,2014-07-30 00:19:39,2014-07-30 00:23:07,1,Bush,1,1,1,,1,,2,4,3,4,4,4,70.287,87.89399999999999,90.274,6,,1,,6,,,3,7,1,2,1,1,2,46,
+R_eQxFVUkbmfkNuVn,Default Response Set,Anonymous,,,242,0,2014-07-30 00:48:02,2014-07-30 00:50:36,1,Obama,1,1,1,,,1,3,1,5,1,1,1,30.818,48.899,51.457,6,3,,,3,,,3,2,4,2,1,1,1,26,no
+R_bxBeM8gMhVrmp6Z,Default Response Set,Anonymous,,,204,0,2014-07-30 01:20:56,2014-07-30 01:26:03,1,control,1,1,1,1,,,4,2,4,3,2,2,111.801,125.297,128.083,6,4,,,4,,,3,2,4,2,1,2,1,31,
+R_0xFtgo4LWt8PdYN,Default Response Set,Anonymous,,,264,0,2014-07-30 01:55:12,2014-07-30 01:58:31,1,control,1,1,1,1,,,1,4,2,5,4,4,70.172,88.42699999999999,89.078,6,2,,,,,,2,4,3,2,4,2,1,23,none
+R_daNl4gaJVOJ4srb,Default Response Set,Anonymous,,,308,0,2014-07-30 02:25:24,2014-07-30 02:27:24,1,Obama,1,1,1,,,1,1,5,1,5,5,1,20.364,39.498000000000005,40.633,6,3,,,4,,,3,1,3,1,5,1,1,39,
+R_8BKcDOSlwZsHmDz,Default Response Set,Anonymous,,,6,0,2014-07-30 02:25:27,2014-07-30 02:28:17,1,Bush,1,1,1,,1,,3,5,2,4,3,3,40.335,61.391999999999996,62.634,7,1,,,2,,,3,2,4,2,1,4,1,27,"Thanks! Might I suggest putting the answers to the individual questions all on one page, to save loading time and allow the survey to be completed even quicker?"
+R_6hDpOXJ1syGIKgt,Default Response Set,Anonymous,,,423,0,2014-07-30 03:30:36,2014-07-30 03:31:59,1,Obama,1,1,1,,,1,1,2,1,5,5,3,12.374,23.501,24.486,8,4,1,1,7,,,2,3,3,2,6,3,2,19,
+R_eqVNWD3bIamL5gp,Default Response Set,Anonymous,,,68,0,2014-07-30 04:24:55,2014-07-30 04:27:19,1,Bush,1,1,1,,1,,3,3,3,5,3,4,7.452,50.102,60.33,9,3,,,5,,,3,6,4,1,5,2,1,35,
+R_ddr54yVqeOe11l3,Default Response Set,Anonymous,,,49,0,2014-07-30 05:34:02,2014-07-30 05:37:40,1,control,1,1,1,1,,,5,1,3,5,1,1,35.233,44.785,45.155,7,6,,,6,,,1,2,3,2,1,1,2,53,no
+R_42eN5UVGMq12ptb,Default Response Set,Anonymous,,,310,0,2014-07-30 06:03:53,2014-07-30 06:05:53,1,Obama,1,1,1,,,1,5,1,4,3,2,4,28.097,39.338,40.77,6,2,,,2,,,2,6,6,2,1,2,1,34,
+R_3JyubbBzuUrWJDL,Default Response Set,Anonymous,,,258,0,2014-07-30 06:13:08,2014-07-30 06:15:53,1,Bush,1,1,1,,1,,2,4,2,5,4,3,46.188,56.44600000000001,58.787,6,5,,,6,,,1,2,2,2,5,2,2,20,I had never heard of the automatic enrollment to take out money in paychecks
+R_3azhCE6w1a6ONM1,Default Response Set,Anonymous,,,342,0,2014-07-30 06:34:33,2014-07-30 06:37:59,1,Obama,1,1,1,,,1,4,2,3,4,4,3,71.86,82.15599999999999,86.431,6,4,,,4,,,1,3,3,2,4,2,2,31,
+R_78IC5NEL04brhcN,Default Response Set,Anonymous,,,337,0,2014-07-30 06:51:39,2014-07-30 06:53:15,1,control,1,1,1,1,,,4,3,3,4,2,3,16.27,26.485999999999997,27.152,6,3,,,3,,,2,2,3,2,4,3,1,36,Thanks!
+R_8wcoCNNAQ385cNL,Default Response Set,Anonymous,,,363,0,2014-07-30 07:02:01,2014-07-30 07:04:12,1,Bush,1,1,1,,1,,5,1,4,3,1,2,45.021,61.32300000000001,62.08,9,3,,,5,,,3,3,2,2,1,3,1,49,
+R_4Iz7LwSAZ1vpZFb,Default Response Set,Anonymous,,,370,0,2014-07-30 07:25:57,2014-07-30 07:28:17,1,Bush,1,1,1,,1,,2,4,2,4,4,4,42.04,55.09199999999999,56.287,6,1,,,5,,,2,1,4,2,1,2,2,31,
+R_7ORgcl60dMEJD9j,Default Response Set,Anonymous,,,55,0,2014-07-30 07:38:05,2014-07-30 07:39:13,1,Obama,1,1,1,,,1,3,3,3,4,4,3,6.838,9.099000000000002,9.683,6,4,,,5,,,2,2,3,2,1,2,1,29,none
+R_77D4PyMnBmwJcqx,Default Response Set,Anonymous,,,62,0,2014-07-30 07:58:39,2014-07-30 08:02:08,1,control,1,1,1,1,,,4,2,4,3,2,4,112.186,125.66500000000002,126.489,6,3,,,3,,,2,1,3,2,4,2,2,42,
+R_3DfGQM4GlkKx2zr,Default Response Set,Anonymous,,,32,0,2014-07-30 08:07:09,2014-07-30 08:10:50,1,control,1,1,1,1,,,5,1,4,2,1,5,82.727,104.756,106.336,7,2,,,2,,,2,3,8,1,6,2,2,29,
+R_6PB0re6j3DQsVHD,Default Response Set,Anonymous,,,33,0,2014-07-30 08:21:54,2014-07-30 08:27:39,1,Bush,1,1,1,,1,,4,2,3,4,2,4,251.187,259.399,260.478,7,1,,,5,,,2,3,6,2,1,5,1,45,
+R_cubi24IWnC5imS9,Default Response Set,Anonymous,,,380,0,2014-07-30 08:42:38,2014-07-30 08:45:05,1,Obama,1,1,1,,,1,2,4,3,5,3,4,34.11,59.861000000000004,63.218,6,5,,,3,,,2,2,3,2,1,1,2,25,
+R_0r0ZelVqik0LfPn,Default Response Set,Anonymous,,,275,0,2014-07-30 08:48:19,2014-07-30 08:54:31,1,control,1,1,1,1,,,1,5,1,5,5,1,79.044,116.963,118.456,6,4,,,4,,,2,1,7,2,1,1,2,35,People should always be the first to have a say in what happens to their money.
+R_77InEDnycC41pOZ,Default Response Set,Anonymous,,,292,0,2014-07-30 09:08:04,2014-07-30 09:12:29,1,Obama,1,1,1,,,1,2,5,2,5,4,4,127.903,141.79500000000002,143.046,6,4,,,4,,,3,1,1,2,1,2,2,32,
+R_d13sScZZgHm7Gu1,Default Response Set,Anonymous,,,20,0,2014-07-30 09:17:06,2014-07-30 09:19:12,1,Bush,1,1,1,,1,,2,4,3,4,4,,34.606,43.745,48.146,7,2,,,2,,,2,3,2,2,1,1,2,22,Very interesting! I learned something new.
+R_5ztytEqeRTLk8mh,Default Response Set,Anonymous,,,93,0,2014-07-30 09:28:05,2014-07-30 09:31:04,1,control,1,1,1,1,,,1,5,2,4,4,4,60.04,74.123,77.333,6,2,,,2,,,3,1,6,2,1,1,1,35,
+R_0qcQ2nLXC9ohYPj,Default Response Set,Anonymous,,,316,0,2014-07-30 09:34:02,2014-07-30 09:35:56,1,Obama,1,1,1,,,1,4,2,3,4,3,2,30.45,43.864,45.804,6,2,,,2,,,2,2,6,2,1,1,1,21,
+R_5uuqhGvPZI0PugR,Default Response Set,Anonymous,,,230,0,2014-07-30 09:33:22,2014-07-30 09:36:00,1,Bush,1,1,1,,1,,5,1,5,1,1,3,37.851,44.378,44.997,6,2,,,5,,,1,6,4,2,1,2,2,36,Thanks
+R_cDdQPDqmorvgyDH,Default Response Set,Anonymous,,,189,0,2014-07-30 09:47:29,2014-07-30 09:51:14,1,control,1,1,1,1,,,4,2,3,3,3,4,55.554,66.913,73.684,6,3,,,4,,,2,2,2,2,4,2,2,28,I don't think that it would necessarily be a bad idea. It may benefit a great number of people in the future.
+R_eDwqSFMavogpxQx,Default Response Set,Anonymous,,,72,0,2014-07-30 09:56:22,2014-07-30 09:58:41,1,Bush,1,1,1,,1,,5,2,3,4,2,5,53.387,62.205000000000005,62.761,6,3,,,5,,,2,4,6,2,4,2,1,20,
+R_9EPHmmDdEWFr9NX,Default Response Set,Anonymous,,,148,0,2014-07-30 10:18:13,2014-07-30 10:20:51,1,Obama,1,1,1,,,1,3,3,3,5,3,1,44.2,56.74,58.252,6,6,,,7,,,1,7,1,2,1,1,1,47,
+R_bvbLxdiUKyCN5t3,Default Response Set,Anonymous,,,145,0,2014-07-30 10:26:45,2014-07-30 10:28:06,1,Bush,1,1,1,,1,,4,1,4,4,1,3,33.135,39.65899999999999,40.672,6,2,,,2,,,2,1,8,2,1,2,1,21,
+R_8wbh3z68Pvos7HL,Default Response Set,Anonymous,,,153,0,2014-07-30 10:28:56,2014-07-30 10:30:06,1,Bush,1,1,1,,1,,1,5,2,5,4,5,21.681,27.707,28.542,6,1,,,1,,,2,1,6,2,1,3,2,31,no
+R_5jvIqWhMrO0gKmF,Default Response Set,Anonymous,,,268,0,2014-07-30 10:29:31,2014-07-30 10:31:42,1,Obama,1,1,1,,,1,3,2,3,4,3,4,54.067,68.31599999999999,69.041,6,5,,,6,,,1,6,2,2,4,2,2,28,
+R_bsgcPoVCPTSjB89,Default Response Set,Anonymous,,,67,0,2014-07-30 10:28:25,2014-07-30 10:32:04,1,control,1,1,1,1,,,2,4,2,5,4,5,23.383,97.853,98.447,8,6,,,6,,,1,7,1,2,1,1,2,34,
+R_9me9Sf6iMZQcEq9,Default Response Set,Anonymous,,,224,0,2014-07-30 10:29:40,2014-07-30 10:32:23,1,Bush,1,1,1,,1,,1,5,1,5,5,5,31.451,40.62800000000001,43.841,6,1,,,7,,,3,1,1,1,7,3,2,45,
+R_ea4pjN3LcaMJ9pH,Default Response Set,Anonymous,,,387,0,2014-07-30 10:28:59,2014-07-30 10:32:38,1,Obama,1,1,1,,,1,4,2,3,4,3,4,2.425,7.689,8.208,7,6,,,3,,,2,7,6,2,6,3,1,23,
+R_4Nq1Gs57YWfI4OV,Default Response Set,Anonymous,,,190,0,2014-07-30 10:31:32,2014-07-30 10:32:48,1,Bush,1,1,1,,1,,2,4,2,4,4,4,17.272,24.360999999999997,25.283,6,3,,,3,,,3,3,4,1,4,3,1,18,
+R_cDb0731FLA7J2ux,Default Response Set,Anonymous,,,372,0,2014-07-30 10:29:41,2014-07-30 10:33:19,1,Bush,1,1,1,,1,,4,3,3,4,2,3,139.226,147.35999999999999,148.04,7,5,,,5,,,1,3,4,2,1,1,1,21,
+R_8Cv84UuzuWjNsCF,Default Response Set,Anonymous,,,361,0,2014-07-30 10:30:56,2014-07-30 10:33:32,1,Obama,1,1,1,,,1,3,2,2,5,4,4,56.484,69.1,70.01,6,1,,,3,,,3,1,3,2,1,5,1,31,
+R_1SJfRCQKKqTnILH,Default Response Set,Anonymous,,,384,0,2014-07-30 10:30:09,2014-07-30 10:33:34,1,control,1,1,1,1,,,4,1,4,1,1,2,91.04,132.478,133.402,9,3,,,6,,,1,3,3,2,1,2,1,22,n/a
+R_5hE8h0xc6TJRaCh,Default Response Set,Anonymous,,,313,0,2014-07-30 10:31:53,2014-07-30 10:33:39,1,control,1,1,1,1,,,3,2,3,3,2,3,5.311,15.806,17.93,8,7,,,7,,,1,7,1,2,1,3,2,24,
+R_eD3Z9GY7LgcEYqV,Default Response Set,Anonymous,,,285,0,2014-07-30 10:28:51,2014-07-30 10:33:53,1,control,1,1,1,1,,,4,2,4,4,3,5,72.19,119.57299999999998,138.697,7,3,,,,,,2,1,3,2,1,2,2,46,Everything was crystal clear to me. :)
+R_barhaeXq7SoTsZT,Default Response Set,Anonymous,,,302,0,2014-07-30 10:32:04,2014-07-30 10:34:14,1,Obama,1,1,1,,,1,2,3,3,4,2,4,50.969,64.44000000000001,65.079,6,4,,,4,,,3,3,4,2,1,2,2,25,
+R_81cCRpUq1J8hePb,Default Response Set,Anonymous,,,29,0,2014-07-30 10:33:00,2014-07-30 10:35:02,1,control,1,1,1,1,,,4,2,4,4,2,3,61.348,69.919,70.873,6,2,,,4,,,3,2,2,2,1,3,1,35,
+R_4ZukOJXz1pzyPvD,Default Response Set,Anonymous,,,405,0,2014-07-30 10:32:49,2014-07-30 10:35:30,1,Obama,1,1,1,,,1,4,2,4,3,1,2,11.374,55.36700000000001,56.372,10,2,,,2,,,2,2,6,2,1,3,1,39,None
+R_3fskz0wfYMIChRb,Default Response Set,Anonymous,,,149,0,2014-07-30 10:33:25,2014-07-30 10:35:37,1,Bush,1,1,1,,1,,4,2,3,3,2,1,53.207,64.69399999999999,65.913,6,5,,,6,,,1,6,1,2,4,2,2,26,
+R_005aXJhRKHRFfOR,Default Response Set,Anonymous,,,240,0,2014-07-30 10:34:10,2014-07-30 10:36:05,1,Bush,1,1,1,,1,,4,2,3,3,3,4,28.197,44.323,47.198,6,1,,,2,,,2,2,4,2,1,1,1,26,None at this time.
+R_1yMom13Kag5ufxr,Default Response Set,Anonymous,,,353,0,2014-07-30 10:34:18,2014-07-30 10:36:30,1,control,1,1,1,1,,,4,3,3,4,3,3,43.665,51.348,52.113,6,4,,,5,,,3,4,4,1,5,2,2,21,
+R_50ZKeZFFSPQTsQ5,Default Response Set,Anonymous,,,355,0,2014-07-30 10:37:02,2014-07-30 10:39:28,1,Bush,1,1,1,,1,,4,2,4,5,3,4,43.469,54.188,55.138,7,5,,,4,,1,3,4,6,2,1,2,2,31,
+R_bpSqLxJsBXwjqmN,Default Response Set,Anonymous,,,447,0,2014-07-30 10:37:07,2014-07-30 10:40:11,1,control,1,1,1,1,,,4,3,5,3,1,3,1.836,58.834999999999994,60.744,10,1,,,2,,,2,4,4,2,1,3,2,22,This made me think of PARS/PERS. My mother and sister both have these accounts automatically.
+R_eKcvk1GhNN9J7hP,Default Response Set,Anonymous,,,54,0,2014-07-30 10:37:57,2014-07-30 10:40:16,1,Obama,1,1,1,,,1,2,4,2,3,3,3,9.153,62.491,63.228,9,1,,,5,,,3,2,4,2,1,3,1,30,None
+R_bDfasNJd2G8LWap,Default Response Set,Anonymous,,,436,0,2014-07-30 10:40:12,2014-07-30 10:43:38,1,control,1,1,1,1,,,2,4,2,2,2,2,57.544,80.223,81.669,8,2,,,2,,,2,1,7,2,1,1,2,32,
+R_5nkPpKzqHGginEV,Default Response Set,Anonymous,,,235,0,2014-07-30 10:41:04,2014-07-30 10:43:54,1,control,1,1,1,1,,,3,3,2,4,4,4,60.26,87.61099999999999,89.536,10,4,,1,,,1,3,4,4,2,1,1,1,24,
+R_bOyqutCwsTJ6Trf,Default Response Set,Anonymous,,,394,0,2014-07-30 10:41:45,2014-07-30 10:44:01,1,Obama,1,1,1,,,1,4,2,4,3,2,3,2.669,61.778999999999996,62.776,8,2,,,3,,,2,2,3,2,1,2,1,31,No problems.
+R_3rc6sq2IrTXJSSx,Default Response Set,Anonymous,,,122,0,2014-07-30 10:47:04,2014-07-30 10:48:15,1,control,1,1,1,1,,,4,2,4,2,2,2,23.127,28.766,29.4,6,1,,,1,,,2,1,6,2,1,2,1,28,
+R_1Cfiraui1J2aDFX,Default Response Set,Anonymous,,,172,0,2014-07-30 10:46:25,2014-07-30 10:49:00,1,Bush,1,1,1,,1,,4,3,2,4,4,5,57.075,73.927,74.696,7,3,,,4,,,2,4,6,2,1,1,2,30,
+R_bqnh0aJhydtD1SB,Default Response Set,Anonymous,,,175,0,2014-07-30 10:48:34,2014-07-30 10:50:55,1,Bush,1,1,1,,1,,4,2,4,2,2,3,38.034,51.02,51.725,6,5,,,5,,,1,7,6,2,1,1,2,39,
+R_6rh3Y2F8RT4mBjn,Default Response Set,Anonymous,,,115,0,2014-07-30 10:37:55,2014-07-30 10:51:32,1,Obama,1,1,1,,,1,2,4,3,2,3,4,29.835,33.900999999999996,36.984,6,6,,,5,,,3,3,4,2,1,2,2,35,
+R_9zPCk5kyK0Hjs4R,Default Response Set,Anonymous,,,96,0,2014-07-30 10:51:55,2014-07-30 10:54:05,1,Bush,1,1,1,,1,,4,2,3,4,2,3,17.775,51.620999999999995,52.416,7,4,,,4,,1,3,1,3,2,1,1,2,19,
+R_5cGWocsRsNulHAV,Default Response Set,Anonymous,,,11,0,2014-07-30 10:51:54,2014-07-30 10:55:39,1,Obama,1,1,1,,,1,5,2,4,5,4,4,73.195,94.93399999999998,95.76,16,1,,,6,,,2,2,3,2,1,2,1,22,Nice Survey Thanks!
+R_6QEjebgzpHRNLCt,Default Response Set,Anonymous,,,110,0,2014-07-30 10:54:28,2014-07-30 10:56:32,1,Obama,1,1,1,,,1,2,4,2,5,4,5,36.213,52.101,52.931,8,2,,,2,,,3,2,2,2,1,1,2,32,none
+R_08T6OsMscjhhEH3,Default Response Set,Anonymous,,,213,0,2014-07-30 10:53:06,2014-07-30 10:57:57,1,control,1,1,1,1,,,1,5,2,5,4,5,48.957,96.37,161.168,9,2,,,2,,,3,2,1,1,4,3,2,30,
+R_9Le4MwXXHDIaQ2p,Default Response Set,Anonymous,,,210,0,2014-07-30 10:55:23,2014-07-30 10:58:22,1,Obama,1,1,1,,,1,2,5,1,5,4,5,49.807,63.150999999999996,63.794,8,5,,,5,,,1,8,3,1,5,2,1,32,Thanks for allowing me to participate! 
+R_bPMiS2elfc2LlPv,Default Response Set,Anonymous,,,176,0,2014-07-30 10:58:05,2014-07-30 10:59:04,1,control,1,1,1,1,,,3,2,3,3,2,3,18.784,24.54,25.239,7,2,,,2,,,3,6,6,2,1,3,2,25,
+R_8DlP5emgL0I4vdP,Default Response Set,Anonymous,,,126,0,2014-07-30 10:39:22,2014-07-30 11:00:19,1,Bush,1,1,1,,1,,4,2,3,4,2,2,268.245,279.867,281.278,6,3,,,4,,,2,2,3,1,6,2,2,41,None
+R_9MPCio90WOkAN0h,Default Response Set,Anonymous,,,209,0,2014-07-30 10:55:16,2014-07-30 11:01:30,1,Bush,1,1,1,,1,,,1,4,5,2,3,77.574,86.513,87.163,6,4,,,4,,,2,1,8,2,1,1,2,26,
+R_1HVM2tDepH0kgrH,Default Response Set,Anonymous,,,279,0,2014-07-30 11:01:25,2014-07-30 11:02:59,1,Obama,1,1,1,,,1,3,3,2,5,4,4,34.407,41.497,42.263,6,1,,,1,,,2,1,2,2,1,3,1,27,N/A
+R_9TZ6oryGNHYNcEZ,Default Response Set,Anonymous,,,241,0,2014-07-30 11:07:52,2014-07-30 11:11:03,1,Bush,1,1,1,,1,,4,2,3,4,3,2,107.242,119.61,122.765,6,3,,,3,,,2,3,2,2,4,2,2,24,n/a
+R_3CaTn91pip4yjZj,Default Response Set,Anonymous,,,227,0,2014-07-30 11:03:56,2014-07-30 11:11:11,1,control,1,1,1,1,,,4,2,3,3,2,2,367.257,377.044,378.062,6,3,,,5,,,3,3,3,2,1,1,2,25,
+R_1TGZMd9cMJNPnoN,Default Response Set,Anonymous,,,99,0,2014-07-30 11:19:35,2014-07-30 11:22:00,1,Bush,1,1,1,,1,,4,2,4,4,1,4,57.79,72.59,74.384,6,2,,,2,,,2,2,3,2,1,1,1,43,
+R_7X0eTreHuEBS4mN,Default Response Set,Anonymous,,,431,0,2014-07-30 11:16:47,2014-07-30 11:22:37,1,control,1,1,1,1,,,3,3,3,3,3,3,3.625,5.682,8.013,6,4,,,4,,,2,3,3,1,6,3,1,23,
+R_9v2kicZWLkM6wYt,Default Response Set,Anonymous,,,101,0,2014-07-30 11:34:00,2014-07-30 11:35:47,1,Obama,1,1,1,,,1,4,2,2,4,3,4,1.925,51.698,52.719,11,6,,,6,,,1,7,2,2,1,2,2,27,
+R_5yw9rOZ5hegpZBj,Default Response Set,Anonymous,,,119,0,2014-07-30 11:34:38,2014-07-30 11:35:52,1,control,1,1,1,1,,,2,4,4,2,2,3,17.266,30.477999999999994,31.161,6,3,,,3,,,2,4,3,1,4,2,1,21,
+R_6RwXcJgB6I20iu9,Default Response Set,Anonymous,,,267,0,2014-07-30 11:42:48,2014-07-30 11:44:37,1,Bush,1,1,1,,1,,1,5,3,4,2,5,27.434,40.905,41.725,6,5,,,7,,,1,4,1,1,6,3,1,42,
+R_0DQ3Fu7eJllGXjf,Default Response Set,Anonymous,,,443,0,2014-07-30 11:44:01,2014-07-30 11:46:54,1,Obama,1,1,1,,,1,3,3,4,4,3,4,39.061,54.036,55.894,6,5,,,7,,,1,8,1,1,6,3,1,56,none
+R_1FFp9lG5fJet76d,Default Response Set,Anonymous,,,112,0,2014-07-30 11:54:11,2014-07-30 11:56:47,1,Obama,1,1,1,,,1,3,3,2,5,4,4,47.296,67.03999999999999,67.945,9,3,,,5,,,3,2,2,2,4,2,1,25,no
+R_4SZypA4BLGHKWt7,Default Response Set,Anonymous,,,191,0,2014-07-30 11:58:44,2014-07-30 12:01:30,1,Bush,1,1,1,,1,,1,5,2,5,4,5,57.755,80.784,81.14,10,5,,,5,,,1,4,1,2,1,1,1,39,
+R_8v48QmbbAv1Pf7L,Default Response Set,Anonymous,,,74,0,2014-07-30 12:08:44,2014-07-30 12:11:34,1,control,1,1,1,1,,,3,3,3,5,3,3,51.847,78.24,79.452,9,3,,,7,,,1,3,4,2,1,2,1,18,n/a
+R_3kIKZQ4DKfk0Hhb,Default Response Set,Anonymous,,,341,0,2014-07-30 12:47:25,2014-07-30 12:49:34,1,control,1,1,1,1,,,4,2,3,3,3,3,11.586,29.829000000000004,31.379,8,3,1,,3,,,1,1,3,2,4,2,1,19,
+R_6AwY9EO04wwH5TD,Default Response Set,Anonymous,,,283,0,2014-07-30 13:30:33,2014-07-30 13:32:33,1,Bush,1,1,1,,1,,3,2,1,1,4,4,45.002,54.153000000000006,55.166,6,3,,,4,,,3,4,4,2,1,1,2,34,none
+R_9MRIWAp89UMbhFr,Default Response Set,Anonymous,,,291,0,2014-07-30 13:35:43,2014-07-30 13:39:29,1,Obama,1,1,1,,,1,3,3,4,2,2,2,26.631,37.5,39.331,6,4,,1,4,,1,3,6,6,1,7,2,2,36,"No, thank you..."
+R_2sEuNNhjL6nHkKF,Default Response Set,Anonymous,,,127,0,2014-07-30 13:42:49,2014-07-30 13:44:12,1,Bush,1,1,1,,1,,5,1,3,1,1,1,34.062,39.27799999999999,40.638,6,1,,,1,,,2,1,8,2,1,1,2,29,
+R_bHqBwtBxSEpAz0V,Default Response Set,Anonymous,,,151,0,2014-07-30 14:16:07,2014-07-30 14:17:20,1,Obama,1,1,1,,,1,4,3,2,3,4,4,14.727,21.351,22.025,8,2,,,3,,,2,2,7,2,4,2,2,20,
+R_b2CB06rIVTSfJlz,Default Response Set,Anonymous,,,329,0,2014-07-30 14:16:49,2014-07-30 14:18:54,1,Obama,1,1,1,,,1,3,3,3,3,3,3,49.43,55.82099999999999,57.031,6,1,,,3,,,3,2,2,2,1,1,1,35,
+R_cGYtCIhHBL7yUgR,Default Response Set,Anonymous,,,76,0,2014-07-30 15:18:29,2014-07-30 15:20:40,1,Bush,1,1,1,,1,,3,3,3,3,3,3,39.598,42.016,42.837,6,4,,,4,,,3,3,1,2,1,1,1,28,
+R_0TiO2lfJwy5Cg6x,Default Response Set,Anonymous,,,438,0,2014-07-30 15:46:03,2014-07-30 15:49:43,1,control,1,1,1,1,,,4,1,4,2,2,3,69.266,89.049,90.138,6,1,,,2,,,3,2,3,2,1,2,2,25,
+R_1B19UZfTlIrIEsZ,Default Response Set,Anonymous,,,39,0,2014-07-30 16:23:56,2014-07-30 16:26:07,1,control,1,1,1,1,,,1,5,1,5,5,5,51.316,57.003000000000014,57.701,6,3,,,5,,,3,1,1,1,7,4,1,35,Please consider applying a generous bonus to my payment. Thank you!!
+R_0CJYt2ZYnxh1421,Default Response Set,Anonymous,,,220,0,2014-07-30 16:52:29,2014-07-30 16:56:52,1,Obama,1,1,1,,,1,5,3,3,4,2,4,9.381,97.25300000000001,98.53,6,4,,,4,,,1,8,6,2,1,1,1,35,Thank you I learned a lot
+R_br1m1w875RbSDel,Default Response Set,Anonymous,,,82,0,2014-07-30 17:24:53,2014-07-30 17:25:53,1,Bush,1,1,1,,1,,3,4,3,4,3,3,13.032,19.31,19.923,6,2,,,3,,,3,1,4,2,1,1,2,48,
+R_3CrVjYUREX2iQbb,Default Response Set,Anonymous,,,9,0,2014-07-30 18:14:12,2014-07-30 18:16:04,1,control,1,1,1,1,,,4,2,4,5,2,4,27.716,46.794000000000004,47.817,6,1,,,2,,,2,1,6,2,1,4,2,25,"I've read ""Nudge"""
+R_2t8pyj7lgCHiAbr,Default Response Set,Anonymous,,,10,0,2014-07-30 18:23:09,2014-07-30 18:24:32,1,Obama,1,1,1,,,1,4,2,4,3,3,4,31.655,40.825,42.745,7,4,,,4,,,3,1,6,2,1,1,2,23,
+R_6maFty2Tna5oL3L,Default Response Set,Anonymous,,,244,0,2014-07-30 18:23:15,2014-07-30 18:25:14,1,Bush,1,1,1,,1,,4,2,4,2,1,1,45.353,61.98199999999999,64.572,9,1,,,2,,,2,2,7,1,4,2,1,31,"No, thank you."
+R_9FWWNes13tnA9Sd,Default Response Set,Anonymous,,,406,0,2014-07-30 18:23:56,2014-07-30 18:25:34,1,Bush,1,1,1,,1,,3,4,3,5,3,4,30.634,39.135,40.063,6,6,,,7,,,1,7,1,2,1,2,1,23,
+R_cTJOXbfIXiALC5v,Default Response Set,Anonymous,,,408,0,2014-07-30 18:23:41,2014-07-30 18:25:44,1,Bush,1,1,1,,1,,4,2,2,4,4,4,2.11,56.117000000000004,56.957,9,2,,,3,,,2,1,6,2,1,2,2,27,Nothing
+R_0lxohPjKqCudKWV,Default Response Set,Anonymous,,,237,0,2014-07-30 18:23:43,2014-07-30 18:25:48,1,Obama,1,1,1,,,1,3,3,4,4,2,3,36.999,48.9,52.031,7,3,,,3,,,2,4,3,2,1,2,1,38,
+R_eDu983DyEOoBV9b,Default Response Set,Anonymous,,,239,0,2014-07-30 18:24:03,2014-07-30 18:25:59,1,control,1,1,1,1,,,4,2,3,4,3,4,43.302,52.882,54.806,6,2,,1,4,,1,2,3,3,2,1,1,1,27,
+R_5hAMBHVacWxZZhX,Default Response Set,Anonymous,,,125,0,2014-07-30 18:24:40,2014-07-30 18:26:12,1,control,1,1,1,1,,,3,2,3,4,2,3,35.559,44.160000000000004,45.078,10,1,,,,,,2,2,3,2,1,2,2,36,
+R_d6T0p8rTfNgN9XL,Default Response Set,Anonymous,,,444,0,2014-07-30 18:24:40,2014-07-30 18:26:25,1,Bush,1,1,1,,1,,4,2,3,4,3,2,32.667,52.891,57.579,10,2,,,3,,,2,2,4,2,1,2,1,23,
+R_2rfgXX0TbBMerYh,Default Response Set,Anonymous,,,177,0,2014-07-30 18:24:44,2014-07-30 18:26:31,1,control,1,1,1,1,,,3,3,3,3,3,3,5.623,54.663000000000004,55.37,8,1,,,1,,,3,1,1,2,1,1,1,25,
+R_9NX4eRxxB6CHIuV,Default Response Set,Anonymous,,,181,0,2014-07-30 18:25:11,2014-07-30 18:26:32,1,Obama,1,1,1,,,1,4,2,3,4,3,4,16.664,34.447,34.923,8,2,,,6,,,2,4,4,2,1,1,1,22,
+R_5d0TB8ePkff54Ed,Default Response Set,Anonymous,,,154,0,2014-07-30 18:23:47,2014-07-30 18:26:41,1,Obama,1,1,1,,,1,1,5,2,5,4,5,5.406,59.645,60.523,27,2,,,5,,,3,1,1,2,1,1,1,27,"Why should I save in this program, so inflation can devalue my savings?  I'd rather be free to make my own investments."
+R_5iR4iA956AvFNpX,Default Response Set,Anonymous,,,303,0,2014-07-30 18:24:27,2014-07-30 18:26:53,1,Obama,1,1,1,,,1,2,3,2,4,3,4,52.915,69.892,74.123,9,1,,,2,,,2,2,3,2,4,3,1,26,
+R_3rs0JbggetuIEpD,Default Response Set,Anonymous,,,243,0,2014-07-30 18:25:40,2014-07-30 18:27:05,1,Bush,1,1,1,,1,,3,3,2,5,4,5,31.148,39.31099999999999,40.091,6,2,,,4,,,2,1,6,2,4,3,2,19,
+R_8ImhOFi41M0RX6Z,Default Response Set,Anonymous,,,248,0,2014-07-30 18:24:38,2014-07-30 18:27:13,1,Bush,1,1,1,,1,,4,2,4,2,2,2,64.457,74.04799999999999,76.668,6,4,,,4,,,2,3,2,2,1,1,2,52,no
+R_72hEogkqmBI8RJr,Default Response Set,Anonymous,,,123,0,2014-07-30 18:23:18,2014-07-30 18:27:14,1,control,1,1,1,1,,,4,4,4,4,4,4,30.248,34.928000000000004,36.076,7,4,,,4,,,2,3,3,2,4,3,1,26,
+R_cO1y0abAnBlfcBn,Default Response Set,Anonymous,,,448,0,2014-07-30 18:25:20,2014-07-30 18:27:26,1,Obama,1,1,1,,,1,4,2,3,3,3,3,48.649,56.61,57.417,6,1,,,2,,,2,1,7,2,1,3,2,28,
+R_8kRSACzMALUbGhD,Default Response Set,Anonymous,,,92,0,2014-07-30 18:25:57,2014-07-30 18:27:31,1,Bush,1,1,1,,1,,4,2,4,4,2,4,22.606,42.467000000000006,43.183,6,1,,,4,,,2,2,3,2,1,2,2,28,
+R_3UH741JFfIjHjGB,Default Response Set,Anonymous,,,280,0,2014-07-30 18:25:41,2014-07-30 18:27:52,1,control,1,1,1,1,,,1,5,1,4,5,4,46.697,61.715,69.88,7,2,,,2,,,1,1,1,2,1,2,1,29,
+R_9RocbypkzQXTFT7,Default Response Set,Anonymous,,,180,0,2014-07-30 18:26:33,2014-07-30 18:28:26,1,control,1,1,1,1,,,4,1,3,4,2,4,40.087,51.693000000000005,52.324,6,1,,,2,,,2,1,6,2,1,2,2,36,
+R_8075SDH3DV8znCt,Default Response Set,Anonymous,,,375,0,2014-07-30 18:26:48,2014-07-30 18:28:34,1,Bush,1,1,1,,1,,1,5,2,5,5,5,6.21,51.27300000000001,51.697,19,2,,,3,,,2,4,3,2,1,1,1,30,
+R_1HXl5aIq5YLhAah,Default Response Set,Anonymous,,,81,0,2014-07-30 18:26:49,2014-07-30 18:28:50,1,Obama,1,1,1,,,1,4,2,4,4,2,3,13.562,56.303,57.264,15,2,,,2,,,3,2,6,1,6,2,1,28,
+R_3dE0N41uNUQI9Rr,Default Response Set,Anonymous,,,28,0,2014-07-30 18:27:04,2014-07-30 18:28:54,1,control,1,1,1,1,,,4,2,3,3,3,4,31.883,45.438,46.331,7,5,,,6,,,1,6,4,2,1,1,1,33,
+R_81juBeaXYhLq12R,Default Response Set,Anonymous,,,132,0,2014-07-30 18:27:00,2014-07-30 18:28:55,1,Bush,1,1,1,,1,,2,3,2,4,3,2,6.592,59.898,60.732,12,3,,,5,,,3,4,3,2,1,2,1,22,
+R_3rV7O8dqEyfwkKh,Default Response Set,Anonymous,,,136,0,2014-07-30 18:26:10,2014-07-30 18:29:20,1,Obama,1,1,1,,,1,4,2,4,3,2,3,47.684,79.131,80.056,6,6,,,6,,,2,2,4,2,1,3,1,38,
+R_0jQct8EpyjeVbOR,Default Response Set,Anonymous,,,377,0,2014-07-30 18:27:49,2014-07-30 18:29:43,1,Obama,1,1,1,,,1,5,1,4,5,1,2,5.03,60.738,62.293,12,3,,,6,,,2,2,1,2,1,2,1,20,
+R_aeZbo3WyafF1zHn,Default Response Set,Anonymous,,,78,0,2014-07-30 18:28:28,2014-07-30 18:30:15,1,Bush,1,1,1,,1,,1,5,1,5,5,5,22.039,44.452999999999996,45.175,8,1,,,5,,,3,1,2,2,1,1,1,22,
+R_6fp6kaui3RKDgtD,Default Response Set,Anonymous,,,159,0,2014-07-30 18:28:04,2014-07-30 18:30:20,1,Obama,1,1,1,,,1,4,2,3,2,2,3,49.036,68.12,70.419,7,3,,,3,,,2,7,7,2,1,1,1,33,
+R_6nxQnrLOSwQq5Ol,Default Response Set,Anonymous,,,38,0,2014-07-30 18:29:04,2014-07-30 18:30:30,1,control,1,1,1,1,,,4,2,3,3,3,4,12.169,41.087,42.039,15,1,,,4,,,2,2,4,2,1,1,2,20,
+R_8udsY7KAvDPvyHH,Default Response Set,Anonymous,,,140,0,2014-07-30 18:25:59,2014-07-30 18:30:33,1,control,1,1,1,1,,,2,4,2,4,4,4,4.274,135.29799999999997,138.517,8,5,,,5,,,1,3,2,2,1,2,1,44,
+R_54MIbji9W5qlDWR,Default Response Set,Anonymous,,,420,0,2014-07-30 18:28:50,2014-07-30 18:31:05,1,Obama,1,1,1,,,1,4,2,4,4,2,4,52.133,71.273,71.876,6,2,,,2,,,2,2,6,1,8,4,2,27,
+R_3UizX2ZPmCmXTr7,Default Response Set,Anonymous,,,407,0,2014-07-30 18:29:21,2014-07-30 18:31:11,1,control,1,1,1,1,,,2,4,2,5,3,3,38.55,48.199,48.775,7,2,,,5,,,2,3,3,2,1,1,1,19,
+R_eeZqZ8KXYMRCGRn,Default Response Set,Anonymous,,,203,0,2014-07-30 18:28:50,2014-07-30 18:31:34,1,Bush,1,1,1,,1,,2,4,3,5,3,4,57.136,69.688,70.981,6,2,,,2,,,2,3,6,2,1,1,2,47,
+R_0ivXGID8fpzyIEl,Default Response Set,Anonymous,,,236,0,2014-07-30 18:30:47,2014-07-30 18:32:18,1,Obama,1,1,1,,,1,5,1,4,3,2,3,29.41,42.722,43.588,7,2,,,2,,,2,4,3,2,1,3,1,20,
+R_cwJclIc6rQghBAN,Default Response Set,Anonymous,,,317,0,2014-07-30 18:29:33,2014-07-30 18:32:23,1,Obama,1,1,1,,,1,4,1,4,2,1,1,5.934,91.52799999999999,92.785,7,2,,,2,,,3,2,7,2,1,1,1,33,
+R_2lOEP7Xzq84O79X,Default Response Set,Anonymous,,,412,0,2014-07-30 18:31:42,2014-07-30 18:33:33,1,Bush,1,1,1,,1,,5,2,4,4,2,5,4.492,37.516,38.264,10,1,,,1,,,3,1,1,1,6,2,1,30,I dislike both GWB and BHO. Thanks.
+R_dbqeiK1kC0IhyRv,Default Response Set,Anonymous,,,162,0,2014-07-30 18:32:17,2014-07-30 18:34:14,1,Bush,1,1,1,,1,,4,3,2,4,3,2,31.365,54.77300000000001,57.792,10,2,,,2,,,2,6,6,2,4,2,2,23,
+R_ernCWKb2EX2kpnv,Default Response Set,Anonymous,,,253,0,2014-07-30 18:31:57,2014-07-30 18:34:52,1,control,1,1,1,1,,,2,4,1,5,5,3,42.216,78.06,89.677,8,6,,,5,,,2,1,1,1,5,3,1,24,"Nope, good study."
+R_a4QOD2u9lkAjSeh,Default Response Set,Anonymous,,,354,0,2014-07-30 18:33:50,2014-07-30 18:35:26,1,Bush,1,1,1,,1,,3,3,3,3,3,3,4.596,9.097999999999999,10.798,6,4,,,4,,,2,2,3,1,6,3,2,24,
+R_9nMR0fadML2wYDj,Default Response Set,Anonymous,,,21,0,2014-07-30 18:34:39,2014-07-30 18:35:50,1,Bush,1,1,1,,1,,3,3,3,4,3,4,18.529,26.374,27.172,6,2,,,5,,,3,6,7,2,1,4,2,19,
+R_73Th7bq3udDRc3z,Default Response Set,Anonymous,,,373,0,2014-07-30 18:32:42,2014-07-30 18:35:51,1,Obama,1,1,1,,,1,4,2,3,3,2,4,21.142,48.973000000000006,49.343,12,2,,,2,,,2,4,3,2,1,2,1,22,
+R_0Dsn3MAlTWGakiV,Default Response Set,Anonymous,,,335,0,2014-07-30 18:34:19,2014-07-30 18:36:06,1,control,1,1,1,1,,,4,2,4,4,2,2,31.022,42.094,43.769,6,1,,,2,,,2,1,7,2,1,3,2,35,
+R_8pPd8YKgER2wBlb,Default Response Set,Anonymous,,,266,0,2014-07-30 18:34:14,2014-07-30 18:36:19,1,control,1,1,1,1,,,5,1,5,1,1,2,40.063,63.522,64.369,8,4,,,4,,,3,2,4,2,1,1,1,18,
+R_9EysioefuVPGg97,Default Response Set,Anonymous,,,87,0,2014-07-30 18:33:59,2014-07-30 18:36:21,1,Bush,1,1,1,,1,,2,2,3,4,4,5,40.738,71.51,72.122,23,4,,,,,1,3,2,6,2,1,1,2,27,"No, thank you for asking. :)"
+R_51ruej9jUt7VT7v,Default Response Set,Anonymous,,,288,0,2014-07-30 18:30:17,2014-07-30 18:36:26,1,Bush,1,1,1,,1,,1,4,2,5,5,5,239.263,265.50300000000004,267.46,7,1,,,1,,,2,2,8,2,1,1,1,44,n/a
+R_2tM6n92xqSk36nz,Default Response Set,Anonymous,,,381,0,2014-07-30 18:35:50,2014-07-30 18:37:12,1,control,1,1,1,1,,,2,4,2,4,4,4,22.962,35.278,36.135,8,2,,,3,,,3,3,3,2,1,2,2,24,
+R_9nR9Ie2tK9b66Il,Default Response Set,Anonymous,,,296,0,2014-07-30 18:36:10,2014-07-30 18:37:18,1,Obama,1,1,1,,,1,2,4,4,3,4,4,3.688,8.102,10.247,6,2,1,1,4,,,3,4,4,2,6,3,1,27,
+R_8cEyhmWcZLzyDcN,Default Response Set,Anonymous,,,234,0,2014-07-30 18:35:41,2014-07-30 18:37:25,1,Obama,1,1,1,,,1,4,4,4,2,2,3,2.988,22.055999999999997,39.915,7,2,,,2,,,2,4,6,2,1,1,2,20,
+R_3W7ed2pl90DAJed,Default Response Set,Anonymous,,,265,0,2014-07-30 18:33:31,2014-07-30 18:37:35,1,control,1,1,1,1,,,1,5,1,5,5,5,52.809,74.44099999999999,75.226,6,2,,,5,,,2,2,4,2,1,1,2,62,Interesting - didn't know such a pension program policy existed. Pretty much the same as social security though - you can't opt out of that.
+R_86oPWhG6Gt3t6kt,Default Response Set,Anonymous,,,169,0,2014-07-30 18:36:20,2014-07-30 18:38:42,1,Bush,1,1,1,,1,,5,1,4,1,2,2,30.802,51.841,59.782,8,3,,,3,,,2,2,3,1,6,3,2,23,
+R_9sgRrO4EQ62ANWB,Default Response Set,Anonymous,,,315,0,2014-07-30 18:38:08,2014-07-30 18:39:31,1,Obama,1,1,1,,,1,4,2,2,4,3,4,29.856,35.983,36.443,6,3,,,3,,,2,3,3,2,4,2,2,26,no
+R_8ofeAacPs6JF7bD,Default Response Set,Anonymous,,,84,0,2014-07-30 18:38:07,2014-07-30 18:39:41,1,Bush,1,1,1,,1,,1,5,2,5,2,5,22.69,36.2,37.83,6,2,,,3,,,2,1,3,2,1,1,2,29,
+R_d0BZasKVQ33Kuwt,Default Response Set,Anonymous,,,345,0,2014-07-30 18:37:31,2014-07-30 18:40:06,1,control,1,1,1,1,,,4,1,4,3,2,3,6.572,67.38900000000001,70.868,9,3,,,3,,,2,1,3,2,1,1,1,32,None.
+R_eJo43V9dPH0M7nD,Default Response Set,Anonymous,,,272,0,2014-07-30 18:38:22,2014-07-30 18:40:39,1,Bush,1,1,1,,1,,3,3,2,4,4,1,33.491,62.858000000000004,64.178,10,3,,,3,,,2,1,4,2,4,3,1,27,n/a
+R_czOzPeBuF5zJcUd,Default Response Set,Anonymous,,,85,0,2014-07-30 18:39:44,2014-07-30 18:41:09,1,Obama,1,1,1,,,1,4,3,3,2,2,3,29.609,35.793000000000006,36.812,6,2,,,2,,,3,3,6,2,1,4,2,29,none
+R_39NludiKWGIkhU1,Default Response Set,Anonymous,,,331,0,2014-07-30 18:39:39,2014-07-30 18:41:24,1,control,1,1,1,1,,,1,5,1,5,5,5,36.541,47.371,47.959,6,4,,,1,,,3,1,1,1,6,1,1,21,No
+R_0GLjuMDG7aQCfTn,Default Response Set,Anonymous,,,287,0,2014-07-30 18:39:47,2014-07-30 18:41:44,1,Bush,1,1,1,,1,,5,1,4,4,2,5,33.622,45.049,45.68,6,3,,,,,,2,6,7,2,1,1,2,39,
+R_24X5Z9GhN33Wglv,Default Response Set,Anonymous,,,116,0,2014-07-30 18:40:08,2014-07-30 18:42:06,1,control,1,1,1,1,,,1,5,1,5,5,5,1.743,63.84799999999999,65.589,10,6,,,6,,,1,4,2,2,1,3,1,30,n/a
+R_d5z0BncEB32QLWd,Default Response Set,Anonymous,,,338,0,2014-07-30 18:39:04,2014-07-30 18:42:11,1,control,1,1,1,1,,,2,4,3,4,3,4,42.305,86.38300000000001,87.325,9,6,,,5,,,1,7,4,2,1,2,2,47,
+R_ewK3f2O5Tk1qwQt,Default Response Set,Anonymous,,,4,0,2014-07-30 18:40:14,2014-07-30 18:42:12,1,Bush,1,1,1,,1,,4,3,4,3,3,4,14.663,58.87900000000001,59.612,18,4,,,5,,,3,3,3,2,1,3,2,29,
+R_4HjoE4NwxVa9RwF,Default Response Set,Anonymous,,,170,0,2014-07-30 18:41:41,2014-07-30 18:42:28,1,Obama,1,1,1,,,1,4,3,4,2,3,4,7.486,10.518000000000002,11.059,9,3,,,2,,,2,2,3,2,5,2,1,23,no
+R_3w7rHRMUbe05Ozr,Default Response Set,Anonymous,,,281,0,2014-07-30 18:40:29,2014-07-30 18:42:37,1,control,1,1,1,1,,,4,2,3,4,2,4,41.013,50.704,56.338,6,1,,,3,,,3,1,4,2,1,2,1,29,
+R_9Y6a5p8oTCdT6x7,Default Response Set,Anonymous,,,358,0,2014-07-30 18:40:34,2014-07-30 18:42:55,1,Bush,1,1,1,,1,,4,2,3,4,2,3,25.949,54.592,56.418,12,2,,,2,,,2,3,4,2,1,2,2,22,Thank you. This was interesting to learn about.
+R_bf0336MynJxC7Wd,Default Response Set,Anonymous,,,5,0,2014-07-30 18:40:59,2014-07-30 18:43:18,1,control,1,1,1,1,,,4,2,4,2,2,2,13.664,69.83299999999998,71.062,14,4,,,4,,,3,4,4,2,1,3,1,25,
+R_8evAnnnSYkmMui1,Default Response Set,Anonymous,,,229,0,2014-07-30 18:40:44,2014-07-30 18:43:55,1,Obama,1,1,1,,,1,1,4,2,5,4,3,87.279,97.35599999999998,97.95,8,2,,,2,,,2,3,7,2,1,2,1,25,
+R_ahrk12bPu6gHbtr,Default Response Set,Anonymous,,,300,0,2014-07-30 18:30:49,2014-07-30 18:44:05,1,control,1,1,1,1,,,4,2,4,3,2,3,8.187,70.39800000000001,71.236,8,4,,,4,,,3,1,7,2,1,1,1,30,
+R_0TUurmUajg7z5NH,Default Response Set,Anonymous,,,69,0,2014-07-30 18:40:49,2014-07-30 18:44:30,1,Bush,1,1,1,,1,,3,4,2,4,2,3,19.26,72.641,76.024,6,2,,,4,,,2,1,6,2,1,2,1,25,
+R_bHEXX1ihMLXb9NX,Default Response Set,Anonymous,,,270,0,2014-07-30 18:42:20,2014-07-30 18:44:35,1,control,1,1,1,1,,,5,2,4,4,2,4,58.352,74.151,74.939,8,5,,,5,,,1,3,2,2,1,2,1,31,
+R_cvuEfwBx30lh4gZ,Default Response Set,Anonymous,,,108,0,2014-07-30 18:43:11,2014-07-30 18:44:49,1,Bush,1,1,1,,1,,4,2,2,4,4,4,15.364,23.468,24.589,8,3,,,3,,,3,2,2,2,4,2,2,23,
+R_87mnRfe1G29GImN,Default Response Set,Anonymous,,,89,0,2014-07-30 18:34:13,2014-07-30 18:44:53,1,Obama,1,1,1,,,1,4,2,4,3,2,3,163.594,419.857,422.062,6,6,,,6,,,1,6,2,2,4,2,1,20,
+R_80LVOeEb6QzklIF,Default Response Set,Anonymous,,,113,0,2014-07-30 18:42:47,2014-07-30 18:45:19,1,Obama,1,1,1,,,1,2,4,2,4,4,4,63.984,74.98799999999999,76.229,6,2,,,2,,,2,4,6,2,1,1,2,47,
+R_0rcm7sYbIh2ymqx,Default Response Set,Anonymous,,,65,0,2014-07-30 18:41:02,2014-07-30 18:45:19,1,Bush,1,1,1,,1,,3,3,3,3,3,3,1.205,2.995,3.552,7,,,,5,,,2,3,3,2,6,3,1,20,
+R_81Akgh2DxXZX2IJ,Default Response Set,Anonymous,,,48,0,2014-07-30 18:40:27,2014-07-30 18:45:44,1,Obama,1,1,1,,,1,3,3,3,4,3,3,4.289,114.762,128.922,10,4,,,5,,,3,3,3,2,1,3,1,29,Presenting the two conservative-liberal items on one page would have been less confusing.
+R_3QSDaxuaNKX7yzX,Default Response Set,Anonymous,,,386,0,2014-07-30 18:43:12,2014-07-30 18:45:53,1,Obama,1,1,1,,,1,4,1,4,2,2,2,44.975,60.094,62.48,6,4,,,4,,,3,4,4,2,1,1,2,54,no
+R_0qVuAeLxA0ulh9b,Default Response Set,Anonymous,,,392,0,2014-07-30 18:43:37,2014-07-30 18:46:04,1,control,1,1,1,1,,,1,5,1,5,2,5,34.929,55.69499999999999,56.574,6,2,,,3,,,3,1,4,2,1,1,1,44,No
+R_bDfg6jZo8EsIAOF,Default Response Set,Anonymous,,,186,0,2014-07-30 18:43:58,2014-07-30 18:46:56,1,Obama,1,1,1,,,1,4,2,3,4,3,5,52.529,68.837,70.446,6,2,,,6,,,2,2,3,2,1,4,1,19,
+R_6VW50NgyBFbgW45,Default Response Set,Anonymous,,,120,0,2014-07-30 18:44:24,2014-07-30 18:47:17,1,Bush,1,1,1,,1,,4,2,4,2,2,2,44.656,67.02799999999999,68.539,8,6,,,6,,,1,7,1,2,1,1,1,22,None
+R_aeMEXEBcnf5OQAd,Default Response Set,Anonymous,,,371,0,2014-07-30 18:43:14,2014-07-30 18:48:12,1,Bush,1,1,1,,1,,4,2,3,3,3,3,57.429,77.668,78.937,6,2,,,3,,,2,4,6,1,6,2,1,28,no
+R_3Pk1kP2gg2cQpc9,Default Response Set,Anonymous,,,374,0,2014-07-30 18:44:34,2014-07-30 18:48:23,1,control,1,1,1,1,,,1,5,2,4,4,4,167.257,178.422,179.273,6,5,,,5,,,3,2,2,2,1,1,2,26,
+R_0weaykqopM5Qrsh,Default Response Set,Anonymous,,,289,0,2014-07-30 18:49:46,2014-07-30 18:51:47,1,control,1,1,1,1,,,1,5,1,5,5,5,47.405,59.655,62.851,6,3,,,3,,,2,2,2,2,1,1,1,30,No
+R_07G7BwAuwUUCcbb,Default Response Set,Anonymous,,,152,0,2014-07-30 18:57:28,2014-07-30 18:58:40,1,Obama,1,1,1,,,1,1,1,1,1,1,1,1.494,5.228000000000001,5.549,8,1,,,6,,,3,1,1,2,1,1,1,28,
+R_8IYm084LFDnxWRL,Default Response Set,Anonymous,,,178,0,2014-07-30 18:56:57,2014-07-30 18:59:51,1,Bush,1,1,1,,1,,4,2,4,2,2,4,25.795,38.227000000000004,39.206,8,1,,,1,,,2,1,3,2,1,1,2,32,
+R_6teiCFMlFZ3nopL,Default Response Set,Anonymous,,,118,0,2014-07-30 19:07:08,2014-07-30 19:09:15,1,Bush,1,1,1,,1,,4,2,2,4,4,4,50.351,65.484,66.772,7,3,,,5,,,1,6,1,1,6,2,2,26,
+R_037fmqQUJ0Ch989,Default Response Set,Anonymous,,,433,0,2014-07-30 19:30:09,2014-07-30 19:32:35,1,Obama,1,1,1,,,1,2,4,2,3,4,4,42.669,67.918,69.049,6,3,,,3,,,3,3,6,2,1,1,2,32,No
+R_9Z93DsrwmiG2e0J,Default Response Set,Anonymous,,,418,0,2014-07-30 19:51:09,2014-07-30 19:52:52,1,control,1,1,1,1,,,4,2,3,4,3,3,19.237,53.05,53.469,8,4,,,4,,,3,1,1,2,1,1,2,30,
+R_cU9kg1bCXvD9S1n,Default Response Set,Anonymous,,,424,0,2014-07-30 19:52:30,2014-07-30 19:56:24,1,Bush,1,1,1,,1,,2,4,3,2,3,4,14.331,93.38499999999999,96.282,9,2,,,2,,,2,2,3,2,1,2,2,32,no
+R_bBELjPzZm7XVc45,Default Response Set,Anonymous,,,451,0,2014-07-30 20:12:02,2014-07-30 20:14:47,1,Obama,1,1,1,,,1,2,4,2,4,4,4,11.357,93.36299999999997,99.695,67,2,,,2,,,1,6,3,1,6,4,2,26,thank you
+R_ezkNO3ASurkGOTb,Default Response Set,Anonymous,,,106,0,2014-07-30 20:14:46,2014-07-30 20:16:47,1,control,1,1,1,1,,,5,1,5,3,1,3,43.244,53.464000000000006,54.367,6,7,,,7,,,1,3,8,2,1,1,2,21,
